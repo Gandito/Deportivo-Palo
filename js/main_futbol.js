@@ -36,7 +36,6 @@ const contenedor_jr7 = document.querySelector('.contenedor_jornada7');
 const contenedor_jr8 = document.querySelector('.contenedor_jornada8');
 const contenedor_jr9 = document.querySelector('.contenedor_jornada9');
 const contenedor_jr10 = document.querySelector('.contenedor_jornada10');
-const contenedor_jr11 = document.querySelector('.contenedor_jornada11');
 
 /*JORNADAS*/
 const jr1 = document.querySelectorAll(".jornada1");
@@ -51,7 +50,6 @@ const jr7_ocultar = document.querySelectorAll('.jornada7_ocultar');
 const jr8 = document.querySelectorAll('.jornada8');
 const jr9 = document.querySelectorAll('.jornada9');
 const jr10 = document.querySelectorAll('.jornada10');
-const jr11 = document.querySelectorAll('.jornada11');
 
 /*JORNADAS DESPLEGABLES*/
 const contenedor_jrs_desplegables = document.querySelectorAll('.contenedor_listas_desplegables_ocultar');
@@ -80,7 +78,6 @@ for (let i = 0; i < jr1.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -101,7 +98,6 @@ for (let i = 0; i < jr2.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -122,7 +118,6 @@ for (let i = 0; i < jr3.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -143,7 +138,6 @@ for (let i = 0; i < jr4.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -164,7 +158,6 @@ for (let i = 0; i < jr5.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -185,7 +178,6 @@ for (let i = 0; i < jr6.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -206,7 +198,6 @@ for (let i = 0; i < jr6_ocultar.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -227,7 +218,6 @@ for (let i = 0; i < jr7.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -248,7 +238,6 @@ for (let i = 0; i < jr7_ocultar.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -269,7 +258,6 @@ for (let i = 0; i < jr8.length; i++) {
         contenedor_jr8.setAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -290,7 +278,6 @@ for (let i = 0; i < jr9.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.setAttribute('id', 'mostrar_jornada');
         contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -311,7 +298,6 @@ for (let i = 0; i < jr10.length; i++) {
         contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
         contenedor_jr10.setAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.removeAttribute('id', 'mostrar_jornada');
 
         for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
             contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
@@ -319,28 +305,6 @@ for (let i = 0; i < jr10.length; i++) {
         }
     });
 };
-
-for (let i = 0; i < jr11.length; i++) {
-    jr11[i].addEventListener('click', () => {
-        contenedor_jr1.setAttribute('id', 'ocultar_jornada');
-        contenedor_jr2.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr3.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr4.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr5.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr6.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr7.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr8.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr9.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr10.removeAttribute('id', 'mostrar_jornada');
-        contenedor_jr11.setAttribute('id', 'mostrar_jornada');
-
-        for (let i = 0; i < contenedor_jrs_desplegables.length; i++) {
-            contenedor_jrs_desplegables[i].removeAttribute('class', 'contenedor_listas_desplegables_mostrar')
-            contenedor_jrs_desplegables[i].setAttribute('class', 'contenedor_listas_desplegables_ocultar')
-        }
-    });
-};
-
 
 let goles = document.querySelector('.goles_contenedor');
 let goles_encajados = document.querySelector('.goles_encajados_contenedor');

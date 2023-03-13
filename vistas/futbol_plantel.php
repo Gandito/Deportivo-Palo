@@ -51,6 +51,10 @@
                 <img class="main_defensores main_plantel_imagen" src="../images/jugadores.jpg" alt="">
                 <h3 class="main_plantel_nombre">Fabricio <br> <span class="main_plantel_apellido">Basso</span></h3>
             </div>
+            <div class="main_plantel_defensor7">
+                <img class="main_defensores main_plantel_imagen" src="../images/jugadores.jpg" alt="">
+                <h3 class="main_plantel_nombre">Lorenzo <br> <span class="main_plantel_apellido">Bianco</span></h3>
+            </div>
         </div>
         <h2>Mediocampistas</h2>
         <div class="main_plantel_mediocampistas">
@@ -72,7 +76,7 @@
             </div>
             <div class="main_plantel_mediocampista5">
                 <img class="main_mediocampistas main_plantel_imagen" src="../images/jugadores.jpg" alt="">
-                <h3 class="main_plantel_nombre">Franco <br> <span class="main_plantel_apellido">Romero</span></h3>
+                <h3 class="main_plantel_nombre">Gabriel <br> <span class="main_plantel_apellido"></span></h3>
             </div>
         </div>
         <h2>Delanteros</h2>
@@ -88,6 +92,10 @@
             <div class="main_plantel_delantero3">
                 <img class="main_delanteros main_plantel_imagen" src="../images/jugadores.jpg" alt="">
                 <h3 class="main_plantel_nombre">Lucas <br> <span class="main_plantel_apellido">Ancona</span></h3>
+            </div>
+            <div class="main_plantel_delantero4">
+                <img class="main_delanteros main_plantel_imagen" src="../images/jugadores.jpg" alt="">
+                <h3 class="main_plantel_nombre">Franco <br> <span class="main_plantel_apellido">Romero</span></h3>
             </div>
         </div>
         <div class="main_plantel_linea"></div>

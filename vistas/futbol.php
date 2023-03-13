@@ -41,57 +41,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>Real Sicariona</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>1 v 5</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Notingan Miedo FC</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>Aramburu</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>8 v 4</span>
+                        <img src="../icons/escudoPalo.png" alt="">
+                        <span>Deportivo Palo</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>San Benito</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
+                        <span>5 v 4</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Ringo Samba</span>
                     </div>
                 </div>
             </div>
@@ -114,57 +89,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 2</span>
+                        <abbr>ADN</abbr>
+                        <span>Real Sicariona</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoPalo.png" alt="">
+                        <span>Deportivo Palo</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>Notingan Miedo FC</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Ringo Samba</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>Aramburu</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>San Benito</span>
                     </div>
                 </div>
             </div>
@@ -187,57 +137,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 3</span>
+                        <abbr>ADN</abbr>
+                        <span>Real Sicariona</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Ringo Samba</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
+                        <abbr>ADN</abbr>
+                        <span>Deportivo Palo</span>
                         <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>San Benito</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>Notingan Miedo FC</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Aramburu</span>
                     </div>
                 </div>
             </div>
@@ -260,57 +185,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 4</span>
+                        <abbr>ADN</abbr>
+                        <span>Real Sicariona</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>San Benito</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>Ringo Samba</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Aramburu</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
+                        <abbr>ADN</abbr>
+                        <span>Deportivo Palo</span>
                         <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Notingan Miedo FC</span>
                     </div>
                 </div>
             </div>
@@ -333,57 +233,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>Real Sicariona</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Aramburu</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>San Benito</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Notingan Miedo FC</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>Ringo Samba</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Deportivo Palo</span>
                     </div>
                 </div>
             </div>
@@ -406,57 +281,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 6</span>
+                        <abbr>ADN</abbr>
+                        <span>Notingan Miedo FC</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Real Sicariona</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
+                        <abbr>ADN</abbr>
+                        <span>Deportivo Palo</span>
                         <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Aramburu</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>Ringo Samba</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>San Benito</span>
                     </div>
                 </div>
             </div>
@@ -479,57 +329,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
+                        <abbr>ADN</abbr>
+                        <span>Deportivo Palo</span>
                         <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 7</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Real Sicariona</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>Ringo Samba</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Notingan Miedo FC</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>San Benito</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Aramburu</span>
                     </div>
                 </div>
             </div>
@@ -552,57 +377,32 @@
                                 <li class="jornada8" id="jornada_seleccionada">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 8</span>
+                        <abbr>ADN</abbr>
+                        <span>Ringo Samba</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Real Sicariona</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>San Benito</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoPalo.png" alt="">
+                        <span>Deportivo Palo</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>Aramburu</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Notingan Miedo FC</span>
                     </div>
                 </div>
             </div>
@@ -625,57 +425,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9" id="jornada_seleccionada">JORNADA 9</li>
                                 <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 9</span>
+                        <abbr>ADN</abbr>
+                        <span>San Benito</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Real Sicariona</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>Aramburu</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Ringo Samba</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <abbr>ADN</abbr>
+                        <span>Notingan Miedo FC</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Deportivo Palo</span>
                     </div>
                 </div>
             </div>
@@ -698,130 +473,32 @@
                                 <li class="jornada8">JORNADA 8</li>
                                 <li class="jornada9">JORNADA 9</li>
                                 <li class="jornada10" id="jornada_seleccionada">JORNADA 10</li>
-                                <li class="jornada11">JORNADA 11</li>
                             </div>
                         </ul>
                     </ul>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 10</span>
+                        <abbr>ADN</abbr>
+                        <span>Aramburu</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>Real Sicariona</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
+                        <abbr>ADN</abbr>
+                        <span>Notingan Miedo FC</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>- v -</span>
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <span>San Benito</span>
                     </div>
                     <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
+                        <abbr>ADN</abbr>
+                        <span>Deportivo Palo</span>
                         <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
+                        <span>- v -</span>
                         <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="contenedor_jornada11 ocultar_jornada">
-                <div class="contenedor_izquierda_main_calendario">
-                    <ul class="ul_jornadas">
-                        <li class="jornada1">JORNADA 1</li>
-                        <li class="jornada2">JORNADA 2</li>
-                        <li class="jornada3">JORNADA 3</li>
-                        <li class="jornada4">JORNADA 4</li>
-                        <li class="jornada5">JORNADA 5</li>
-                        <li class="jornada6_mostrar">JORNADA 6</li>
-                        <li class="jornada7_mostrar">JORNADA 7</li>
-                        <ul class="ul_jornadas_desplegables">
-                            <li id="boton_lista_desplegable">•••</li>
-                            <div class="contenedor_listas_desplegables_ocultar">
-                                <li class="jornada6_ocultar">JORNADA 6</li>
-                                <li class="jornada7_ocultar">JORNADA 7</li>
-                                <li class="jornada8">JORNADA 8</li>
-                                <li class="jornada9">JORNADA 9</li>
-                                <li class="jornada10">JORNADA 10</li>
-                                <li class="jornada11" id="jornada_seleccionada">JORNADA 11</li>
-                            </div>
-                        </ul>
-                    </ul>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>1 v 11</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>8 v 5</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>6 v 7</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>2 v 1</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
-                    </div>
-                    <div class="tabla_calendario">
-                        <abbr>TC</abbr>
-                        <span>Unión Santa Fe</span>
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <span>9 v 3</span>
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <span>Central Cordoba</span>
+                        <span>Ringo Samba</span>
                     </div>
                 </div>
             </div>

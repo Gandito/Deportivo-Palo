@@ -498,7 +498,8 @@
 .main_plantel_defensor3,
 .main_plantel_defensor4,
 .main_plantel_defensor5,
-.main_plantel_defensor6 {
+.main_plantel_defensor6,
+.main_plantel_defensor7 {
   position: relative;
 }
 
@@ -512,7 +513,8 @@
 
 .main_plantel_delantero1,
 .main_plantel_delantero2,
-.main_plantel_delantero3 {
+.main_plantel_delantero3,
+.main_plantel_delantero4 {
   position: relative;
 }
 

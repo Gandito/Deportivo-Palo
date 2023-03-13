@@ -159,15 +159,15 @@
                         <h3>C.F. DEPORTIVO PALO</h3>
                     </div>
                     <div>
-                        <h4><span class="main_resultado">12</span> <span class="main_vs">VS.</span> <span class="main_resultado">7</span></h4>
+                        <h4><span class="main_resultado">-</span> <span class="main_vs">VS.</span> <span class="main_resultado">-</span></h4>
                     </div>
                     <div class="main_visita">
                         <img src="./icons/escudoVisita.png" alt="">
-                        <h3>NEW STYLE F.C.</h3>
+                        <h3>REAL SICARIONA</h3>
                     </div>
                 </div>
                 <h4 style="text-align: center; font-size: 16px; font-family: Graduate; font-weight: 400; color: white;">
-                    22/01/2023 17:00hs (Amistoso)</h4>
+                    19/03/2023 -HS</h4>
                 <div class="main_videos">
                     <a href="">VIDEOS ></a>
                     <div class="main_video_principal">
