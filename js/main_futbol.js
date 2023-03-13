@@ -363,6 +363,8 @@ let id_goles_13 = document.querySelector('.id_goles_13');
 let id_goles_14 = document.querySelector('.id_goles_14');
 let id_goles_15 = document.querySelector('.id_goles_15');
 let id_goles_16 = document.querySelector('.id_goles_16');
+let id_goles_17 = document.querySelector('.id_goles_17');
+let id_goles_18 = document.querySelector('.id_goles_18');
 
 let id_goles_encajados_1 = document.querySelector('.id_goles_encajados_1');
 let id_goles_encajados_2 = document.querySelector('.id_goles_encajados_2');
@@ -383,6 +385,8 @@ let id_tarjetas_amarillas_13 = document.querySelector('.id_tarjetas_amarillas_13
 let id_tarjetas_amarillas_14 = document.querySelector('.id_tarjetas_amarillas_14');
 let id_tarjetas_amarillas_15 = document.querySelector('.id_tarjetas_amarillas_15');
 let id_tarjetas_amarillas_16 = document.querySelector('.id_tarjetas_amarillas_16');
+let id_tarjetas_amarillas_17 = document.querySelector('.id_tarjetas_amarillas_17');
+let id_tarjetas_amarillas_18 = document.querySelector('.id_tarjetas_amarillas_18');
 
 let id_tarjetas_rojas_1 = document.querySelector('.id_tarjetas_rojas_1');
 let id_tarjetas_rojas_2 = document.querySelector('.id_tarjetas_rojas_2');
@@ -400,6 +404,8 @@ let id_tarjetas_rojas_13 = document.querySelector('.id_tarjetas_rojas_13');
 let id_tarjetas_rojas_14 = document.querySelector('.id_tarjetas_rojas_14');
 let id_tarjetas_rojas_15 = document.querySelector('.id_tarjetas_rojas_15');
 let id_tarjetas_rojas_16 = document.querySelector('.id_tarjetas_rojas_16');
+let id_tarjetas_rojas_17 = document.querySelector('.id_tarjetas_rojas_17');
+let id_tarjetas_rojas_18 = document.querySelector('.id_tarjetas_rojas_18');
 
 goles.addEventListener('click', () => {
     goles.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
@@ -423,6 +429,8 @@ goles.addEventListener('click', () => {
     id_goles_14.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
     id_goles_15.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
     id_goles_16.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_goles_17.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_goles_18.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
     id_goles_encajados_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_encajados_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
@@ -441,6 +449,8 @@ goles.addEventListener('click', () => {
     id_tarjetas_amarillas_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_amarillas_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_amarillas_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_3.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
@@ -457,6 +467,8 @@ goles.addEventListener('click', () => {
     id_tarjetas_rojas_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_rojas_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_rojas_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
 })
 
 goles_encajados.addEventListener('click', () => {
@@ -483,6 +495,8 @@ goles_encajados.addEventListener('click', () => {
     id_goles_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_3.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
@@ -499,6 +513,8 @@ goles_encajados.addEventListener('click', () => {
     id_tarjetas_amarillas_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_amarillas_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_amarillas_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_3.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
@@ -515,6 +531,8 @@ goles_encajados.addEventListener('click', () => {
     id_tarjetas_rojas_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_rojas_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_rojas_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
 })
 
 tarjetas_amarillas.addEventListener('click', () => {
@@ -539,6 +557,8 @@ tarjetas_amarillas.addEventListener('click', () => {
     id_tarjetas_amarillas_14.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
     id_tarjetas_amarillas_15.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
     id_tarjetas_amarillas_16.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_amarillas_17.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_amarillas_18.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
     id_goles_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_3.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
@@ -555,6 +575,8 @@ tarjetas_amarillas.addEventListener('click', () => {
     id_goles_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_encajados_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_goles_encajados_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
@@ -573,48 +595,16 @@ tarjetas_amarillas.addEventListener('click', () => {
     id_tarjetas_rojas_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_rojas_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_rojas_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_rojas_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
 })
 
 tarjetas_rojas.addEventListener('click', () => {
-    tarjetas_rojas.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    tarjetas_amarillas.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     goles.setAttribute('id', 'contenedor_goles_tarjetas_fondo_ocultar');
     goles_encajados.setAttribute('id', 'contenedor_goles_tarjetas_fondo_ocultar');
     tarjetas_amarillas.setAttribute('id', 'contenedor_goles_tarjetas_fondo_ocultar');
     tarjetas_rojas.setAttribute('id', 'contenedor_goles_tarjetas_fondo_mostrar');
-    id_tarjetas_rojas_1.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_2.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_3.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_4.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_5.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_6.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_7.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_8.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_9.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_10.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_11.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_12.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_13.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_14.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_15.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_tarjetas_rojas_16.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
-    id_goles_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_3.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_4.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_5.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_6.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_7.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_8.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_9.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_10.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_11.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_12.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_13.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_encajados_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
-    id_goles_encajados_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_3.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
@@ -631,4 +621,44 @@ tarjetas_rojas.addEventListener('click', () => {
     id_tarjetas_amarillas_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
     id_tarjetas_amarillas_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_amarillas_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_amarillas_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_3.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_4.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_5.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_6.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_7.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_8.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_9.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_10.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_11.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_12.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_13.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_14.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_15.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_16.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_17.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_18.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_encajados_1.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_goles_encajados_2.setAttribute('id', 'contenedor_goles_tarjetas_ocultar');
+    id_tarjetas_rojas_1.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_2.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_3.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_4.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_5.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_6.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_7.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_8.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_9.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_10.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_11.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_12.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_13.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_14.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_15.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_16.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_17.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
+    id_tarjetas_rojas_18.setAttribute('id', 'contenedor_goles_tarjetas_mostrar');
 })

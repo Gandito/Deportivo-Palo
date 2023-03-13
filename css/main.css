@@ -663,13 +663,13 @@
 .contenedor_nombreEquipo_tablero_fixture {
   align-items: center;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   text-align: center;
 }
 
 .contenedor_nombreEquipo_tablero_fixture p {
   font-family: RiftDemi;
-  font-size: 35px;
+  font-size: 30px;
   font-weight: bold;
 }
 
@@ -1173,4 +1173,155 @@ td {
   font-family: OpenSansRegular;
   width: 100%;
   text-align: center;
+}
+
+.h4_formulario_marketing{
+  color: #26aa5d;
+  font-weight: bold;
+  font-family: OpenSansRegular;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.contenedor_formulario {
+  background-color: #2ECC71 ;
+  margin: auto;
+  margin-top: 15px;
+  width: 50%;
+}
+
+.main_marketing_form {
+  margin: auto;
+  width: 85%;
+  padding: 15px 0px 50px 0px;
+}
+
+.contenedor_seccion_formulario_marketing {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+  margin-top: 0px;
+}
+
+.contenedor_seccion_formulario_marketing:nth-last-of-type(2) {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  margin-top: 25px;
+}
+
+.contenedor_seccion_formulario_marketing textarea {
+  align-items: center;
+  border: none;
+  color: #787878;
+  display: flex;
+  font-family: OpenSansRegular;
+  font-size: 20px;
+  font-weight: bold;
+  height: 105px;
+  margin-top: 8px;
+  outline: none;
+  padding-left: 10px;
+  padding-top: 10px;
+  resize: vertical;
+  min-height: 105px;
+  max-height: 368px;
+}
+
+.contenedor_seccion_formulario_marketing textarea:-webkit-autofill,
+.contenedor_seccion_formulario_marketing textarea:-webkit-autofill:hover,
+.contenedor_seccion_formulario_marketing textarea:-webkit-autofill:focus {
+  -webkit-text-fill-color: #787878;
+}
+
+.contenedor_seccion_formulario_marketing label {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: OpenSansRegular;
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 15px;
+}
+
+.contenedor_seccion_formulario_marketing input {
+  border: none;
+  color: #787878;
+  font-weight: bold;
+  font-size: 20px;
+  height: 50px;
+  margin-top: 0px;
+  padding-left: 10px;
+  outline: none;
+}
+
+.contenedor_seccion_formulario_marketing input:focus,
+.contenedor_seccion_formulario_marketing input:active {
+  outline: 4px solid #26ad5f80;
+}
+
+.contenedor_seccion_formulario_marketing input:-webkit-autofill,
+.contenedor_seccion_formulario_marketing input:-webkit-autofill:hover,
+.contenedor_seccion_formulario_marketing input:-webkit-autofill:focus {
+  -webkit-text-fill-color: #787878;
+}
+
+.contenedor_boton_formulario_marketing {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  margin-top: 25px;
+}
+
+.contenedor_boton_formulario_marketing button {
+  background: #343A40;
+  border: none;
+  border-radius: 3px; 
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 16px 20px;
+  position: relative;
+  overflow: hidden;
+  transition: all .3s;
+  z-index: 1;
+}
+
+.contenedor_boton_formulario_marketing button:hover {
+  color: #2ECC71; 
+  border-radius: 0px 0px 10px 0px;
+}
+
+.contenedor_boton_formulario_marketing button::after {
+  content: "";
+  background: #f4f4f4; 
+  position: absolute;
+  z-index: -1;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: -100%;
+  right: 100%;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.contenedor_boton_formulario_marketing button:hover::after {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.contenedor_boton_formulario_marketing button span:nth-last-child(1){
+  padding-left: 25px;
+} 
+
+.contenedor_boton_formulario_marketing button span {
+  font-size: 18px;
+  font-family: RiftDemi;
 }

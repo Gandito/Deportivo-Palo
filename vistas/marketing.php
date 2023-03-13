@@ -26,6 +26,35 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, numquam. Expedita laudantium corporis recusandae! Non, cupiditate perferendis culpa eligendi voluptatum ullam corrupti perspiciatis rerum saepe cumque nostrum ex a quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur odio omnis nisi ipsa facere? Culpa libero quos impedit pariatur doloribus cumque eius iste nemo numquam id, veritatis, molestiae perferendis delectus?</p>
             </div>
         </div>
+        <div class="main_marketing_contacto">
+            <h4 class="h4_formulario_marketing">Contactate con Marketing</h4>
+            <div class="contenedor_formulario">
+                <form class="main_marketing_form" action="https://formspree.io/f/moqbgeka" method="POST">
+                    <div class="contenedor_seccion_formulario_marketing">
+                        <label for="nombre">Nombre y Apellido</label>
+                        <input type="text" id="nombre" name="nombre" maxlength="32" required>
+                    </div>
+                    <div class="contenedor_seccion_formulario_marketing">
+                        <label for="email">E-mail</label>
+                        <input type="email" id="email" name="email" maxlength="48" required>
+                    </div>
+                    <div class="contenedor_seccion_formulario_marketing">
+                        <label for="telefono">Telefono</label>
+                        <input type="text" id="telefono" name="telefono" maxlength="32" required>
+                    </div>
+                    <div class="contenedor_seccion_formulario_marketing">
+                        <label for="mensaje">Mensaje:</label>
+                        <textarea name="message" id="mensaje" maxlength="256" required></textarea>
+                    </div>
+                    <div class="contenedor_boton_formulario_marketing">
+                        <button type="submit">
+                            <span>Enviar</span>
+                            <span>></span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
     </main>
 
     <footer>

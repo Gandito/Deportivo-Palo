@@ -848,19 +848,19 @@
                     <h4>TORNEO ADN FUTBOL</h4>
                     <div class="contenedor_tablero_fixture">
                         <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <p>Deportivo Palo</p>
-                            <img src="../icons/escudoPalo.png" alt="">
+                            <p>Aramburu</p>
+                            <img src="../icons/escudoVisita.png" alt="">
                         </div>
                         <div>
-                            <span>9 vs 7</span>
+                            <span>8 vs 4</span>
                         </div>
                         <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <img src="../icons/escudoVisita.png" alt="">
+                            <img src="../icons/escudoPalo.png" alt="">
                             <p>Deportivo Palo</p>
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p>1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
+                        <p>1ª fecha / 12-03-2023 / 17:00hs.</p>
                     </div>
                 </div>
 
@@ -883,19 +883,19 @@
                 <div class="contenedor_izquierda_main_fixture">
                     <div class="contenedor_tablero_fixture">
                         <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <p>Deportivo Palo</p>
-                            <img src="../icons/escudoPalo.png" alt="">
+                            <p>Real Sicariona</p>
+                            <img src="../icons/escudoVisita.png" alt="">
                         </div>
                         <div>
-                            <span>9 vs 7</span>
+                            <span>- vs -</span>
                         </div>
                         <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <img src="../icons/escudoVisita.png" alt="">
+                            <img src="../icons/escudoPalo.png" alt="">
                             <p>Deportivo Palo</p>
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
+                        <p class="fecha_fixture">2ª fecha / 19-03-2023 / -hs.</p>
                     </div>
                 </div>
             </div>
@@ -908,15 +908,15 @@
                             <img src="../icons/escudoPalo.png" alt="">
                         </div>
                         <div>
-                            <span>9 vs 7</span>
+                            <span>- vs -</span>
                         </div>
                         <div class="contenedor_nombreEquipo_tablero_fixture">
                             <img src="../icons/escudoVisita.png" alt="">
-                            <p>Deportivo Palo</p>
+                            <p>San Benito</p>
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
+                        <p class="fecha_fixture">3ª fecha / 26-03-2023 / -hs.</p>
                     </div>
                 </div>
             </div>
@@ -929,15 +929,36 @@
                             <img src="../icons/escudoPalo.png" alt="">
                         </div>
                         <div>
-                            <span>9 vs 7</span>
+                            <span>- vs -</span>
                         </div>
                         <div class="contenedor_nombreEquipo_tablero_fixture">
                             <img src="../icons/escudoVisita.png" alt="">
+                            <p>Notingan Miedo FC</p>
+                        </div>
+                    </div>
+                    <div class="contenedor_fecha_fixture">
+                        <p class="fecha_fixture">4ª fecha / 02-04-2023 / -hs.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="contenedor_principal_main_fixture2_mostrar">
+                <div class="contenedor_izquierda_main_fixture">
+                    <div class="contenedor_tablero_fixture">
+                        <div class="contenedor_nombreEquipo_tablero_fixture">
+                            <p>Ringo Samba</p>
+                            <img src="../icons/escudoVisita.png" alt="">
+                        </div>
+                        <div>
+                            <span>- vs -</span>
+                        </div>
+                        <div class="contenedor_nombreEquipo_tablero_fixture">
+                            <img src="../icons/escudoPalo.png" alt="">
                             <p>Deportivo Palo</p>
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
+                        <p class="fecha_fixture">5ª fecha / 09-04-2023 / -hs.</p>
                     </div>
                 </div>
             </div>
@@ -950,15 +971,15 @@
                             <img src="../icons/escudoPalo.png" alt="">
                         </div>
                         <div>
-                            <span>9 vs 7</span>
+                            <span>- vs -</span>
                         </div>
                         <div class="contenedor_nombreEquipo_tablero_fixture">
                             <img src="../icons/escudoVisita.png" alt="">
-                            <p>Deportivo Palo</p>
+                            <p>Aramburu</p>
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
+                        <p class="fecha_fixture">6ª fecha / 16-04-2023 / -hs.</p>
                     </div>
                 </div>
             </div>
@@ -971,15 +992,15 @@
                             <img src="../icons/escudoPalo.png" alt="">
                         </div>
                         <div>
-                            <span>9 vs 7</span>
+                            <span>- vs -</span>
                         </div>
                         <div class="contenedor_nombreEquipo_tablero_fixture">
                             <img src="../icons/escudoVisita.png" alt="">
-                            <p>Deportivo Palo</p>
+                            <p>Real Sicariona</p>
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
+                        <p class="fecha_fixture">7ª fecha / 23-04-2023 / -hs.</p>
                     </div>
                 </div>
             </div>
@@ -988,42 +1009,63 @@
                 <div class="contenedor_izquierda_main_fixture">
                     <div class="contenedor_tablero_fixture">
                         <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <p>Deportivo Palo</p>
-                            <img src="../icons/escudoPalo.png" alt="">
+                            <p>San Benito</p>
+                            <img src="../icons/escudoVisita.png" alt="">
                         </div>
                         <div>
-                            <span>9 vs 7</span>
+                            <span>- vs -</span>
                         </div>
                         <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <img src="../icons/escudoVisita.png" alt="">
+                            <img src="../icons/escudoPalo.png" alt="">
                             <p>Deportivo Palo</p>
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="contenedor_principal_main_fixture2_mostrar">
-                <div class="contenedor_izquierda_main_fixture">
-                    <div class="contenedor_tablero_fixture">
-                        <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <p>Deportivo Palo</p>
-                            <img src="../icons/escudoPalo.png" alt="">
-                        </div>
-                        <div>
-                            <span>9 vs 7</span>
-                        </div>
-                        <div class="contenedor_nombreEquipo_tablero_fixture">
-                            <img src="../icons/escudoVisita.png" alt="">
-                            <p>Deportivo Palo</p>
-                        </div>
-                    </div>
-                    <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">1ª fecha / 30.enero / 20:00 hs. / Ficha</p>
+                        <p class="fecha_fixture">8ª fecha / 30-04-2023 / -hs.</p>
                         <span id="ancla_torneo" class="ancla">Torneo</span>
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="contenedor_principal_main_fixture2_mostrar">
+            <div class="contenedor_izquierda_main_fixture">
+                <div class="contenedor_tablero_fixture">
+                    <div class="contenedor_nombreEquipo_tablero_fixture">
+                        <p>Notingan Miedo FC</p>
+                        <img src="../icons/escudoVisita.png" alt="">
+                    </div>
+                    <div>
+                        <span>- vs -</span>
+                    </div>
+                    <div class="contenedor_nombreEquipo_tablero_fixture">
+                        <img src="../icons/escudoPalo.png" alt="">
+                        <p>Deportivo Palo</p>
+                    </div>
+                </div>
+                <div class="contenedor_fecha_fixture">
+                    <p class="fecha_fixture">9ª fecha / 07-05-2023 / -hs.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="contenedor_principal_main_fixture2_mostrar">
+            <div class="contenedor_izquierda_main_fixture">
+                <div class="contenedor_tablero_fixture">
+                    <div class="contenedor_nombreEquipo_tablero_fixture">
+                        <p>Deportivo Palo</p>
+                        <img src="../icons/escudoPalo.png" alt="">
+                    </div>
+                    <div>
+                        <span>- vs -</span>
+                    </div>
+                    <div class="contenedor_nombreEquipo_tablero_fixture">
+                        <img src="../icons/escudoVisita.png" alt="">
+                        <p>Ringo Samba</p>
+                    </div>
+                </div>
+                <div class="contenedor_fecha_fixture">
+                    <p class="fecha_fixture">10ª fecha / 14-05-2023 / -hs.</p>
                 </div>
             </div>
         </div>
@@ -1033,7 +1075,7 @@
                 <h2>ESTADISTICAS DE DEPORTIVO PALO</h2>
                 <div class="main_futbol_estadisticas">
                     <div class="main_futbol_pj">
-                        <h3>0</h3>
+                        <h3>1</h3>
                         <h4>PJ</h4>
                     </div>
                     <div class="main_futbol_pg">
@@ -1045,7 +1087,7 @@
                         <h4>PE</h4>
                     </div>
                     <div class="main_futbol_pp">
-                        <h3>0</h3>
+                        <h3>1</h3>
                         <h4>PP</h4>
                     </div>
                     <div class="main_futbol_mp">
@@ -1053,7 +1095,7 @@
                         <h4>Media</h4>
                     </div>
                     <div class="main_futbol_p">
-                        <h3>0</h3>
+                        <h3>5</h3>
                         <h4>Puesto</h4>
                     </div>
                 </div>
@@ -1078,15 +1120,15 @@
                             <span>1</span>
                         </div>
                         <div>
-                            <span>Lautaro Gando</span>
+                            <span>Lucas Ancona</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>Goles</span>
-                            <span>0</span>
+                            <span>4</span>
                         </div>
                     </div>
                     <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_par goles id_goles_2">
@@ -1094,11 +1136,11 @@
                             <span>2</span>
                         </div>
                         <div>
-                            <span>Nahuel Robledo</span>
+                            <span>Juan Rodriguez</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>Goles</span>
@@ -1110,11 +1152,11 @@
                             <span>3</span>
                         </div>
                         <div>
-                            <span>Matias Vallarino</span>
+                            <span>Facundo Villarreal</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>Goles</span>
@@ -1126,11 +1168,11 @@
                             <span>4</span>
                         </div>
                         <div>
-                            <span>Lucas Ancona</span>
+                            <span>Lorenzo Bianco</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>Goles</span>
@@ -1142,11 +1184,11 @@
                             <span>5</span>
                         </div>
                         <div>
-                            <span>Franco Romero</span>
+                            <span>Gabriel</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>Goles</span>
@@ -1238,7 +1280,7 @@
                             <span>11</span>
                         </div>
                         <div>
-                            <span>Juan Rodriguez</span>
+                            <span>Nahuel Robledo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1270,7 +1312,7 @@
                             <span>13</span>
                         </div>
                         <div>
-                            <span>Facundo Villarreal</span>
+                            <span>Matias Vallarino</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1319,6 +1361,40 @@
                         </div>
                         <div>
                             <span>Franco Guzman</span>
+                        </div>
+                        <div class="main_futbol_ranking_pj">
+                            <span>PJ</span>
+                            <span>0</span>
+                        </div>
+                        <div class="main_futbol_ranking_goles">
+                            <span>Goles</span>
+                            <span>0</span>
+                        </div>
+                    </div>
+
+                    <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_impar goles id_goles_17">
+                        <div>
+                            <span>17</span>
+                        </div>
+                        <div>
+                            <span>Lautaro Gando</span>
+                        </div>
+                        <div class="main_futbol_ranking_pj">
+                            <span>PJ</span>
+                            <span>0</span>
+                        </div>
+                        <div class="main_futbol_ranking_goles">
+                            <span>Goles</span>
+                            <span>0</span>
+                        </div>
+                    </div>
+
+                    <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_par goles id_goles_18">
+                        <div>
+                            <span>18</span>
+                        </div>
+                        <div>
+                            <span>Franco Romero</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1617,6 +1693,38 @@
                             <span>0</span>
                         </div>
                     </div>
+                    <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_par tarjetas_amarillas id_tarjetas_amarillas_17">
+                        <div>
+                            <span>17</span>
+                        </div>
+                        <div>
+                            <span>Lorenzo Bianco</span>
+                        </div>
+                        <div class="main_futbol_ranking_pj">
+                            <span>PJ</span>
+                            <span>0</span>
+                        </div>
+                        <div class="main_futbol_ranking_goles">
+                            <span>T. Amarillas</span>
+                            <span>0</span>
+                        </div>
+                    </div>
+                    <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_impar tarjetas_amarillas id_tarjetas_amarillas_18">
+                        <div>
+                            <span>18</span>
+                        </div>
+                        <div>
+                            <span>Gabriel</span>
+                        </div>
+                        <div class="main_futbol_ranking_pj">
+                            <span>PJ</span>
+                            <span>0</span>
+                        </div>
+                        <div class="main_futbol_ranking_goles">
+                            <span>T. Amarillas</span>
+                            <span>0</span>
+                        </div>
+                    </div>
                     <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_primero tarjetas_rojas id_tarjetas_rojas_1">
                         <div>
                             <span>1</span>
@@ -1873,6 +1981,38 @@
                             <span>0</span>
                         </div>
                     </div>
+                    <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_par tarjetas_rojas id_tarjetas_rojas_17">
+                        <div>
+                            <span>17</span>
+                        </div>
+                        <div>
+                            <span>Lorenzo Bianco</span>
+                        </div>
+                        <div class="main_futbol_ranking_pj">
+                            <span>PJ</span>
+                            <span>0</span>
+                        </div>
+                        <div class="main_futbol_ranking_goles">
+                            <span>T. Rojas</span>
+                            <span>0</span>
+                        </div>
+                    </div>
+                    <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_impar tarjetas_rojas id_tarjetas_rojas_18">
+                        <div>
+                            <span>18</span>
+                        </div>
+                        <div>
+                            <span>Gabriel</span>
+                        </div>
+                        <div class="main_futbol_ranking_pj">
+                            <span>PJ</span>
+                            <span>0</span>
+                        </div>
+                        <div class="main_futbol_ranking_goles">
+                            <span>T. Rojas</span>
+                            <span>0</span>
+                        </div>
+                    </div>
                 </div>
                 <div class="main_futbol_tabla">
                     <h2>TABLA DE POSICIONES</h2>
@@ -1891,123 +2031,75 @@
                         </tr>
                         <tr class="main_futbol_tabla_equipos">
                             <td>1°</td>
-                            <td>DEPORTIVO PALO</td>
-                            <td>0</td>
-                            <td>0</td>
+                            <td>ARAMBURU</td>
+                            <td>3</td>
+                            <td>1</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
+                            <td class="main_futbol_tabla_ocultar">8</td>
+                            <td class="main_futbol_tabla_ocultar">4</td>
+                            <td>4</td>
                         </tr>
                         <tr class="main_futbol_tabla_equipos">
                             <td>2°</td>
-                            <td>DEPORTIVO PALO</td>
-                            <td>0</td>
-                            <td>0</td>
+                            <td>NOTINGAN MIEDO FC</td>
+                            <td>3</td>
+                            <td>1</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
+                            <td class="main_futbol_tabla_ocultar">5</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
+                            <td>4</td>
                         </tr>
                         <tr class="main_futbol_tabla_equipos">
                             <td>3°</td>
-                            <td>DEPORTIVO PALO</td>
-                            <td>0</td>
-                            <td>0</td>
+                            <td>SAN BENITO</td>
+                            <td>3</td>
+                            <td>1</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
+                            <td class="main_futbol_tabla_ocultar">5</td>
+                            <td class="main_futbol_tabla_ocultar">4</td>
+                            <td>1</td>
                         </tr>
                         <tr class="main_futbol_tabla_equipos">
                             <td>4°</td>
-                            <td>DEPORTIVO PALO</td>
+                            <td>RINGO SAMBA</td>
                             <td>0</td>
-                            <td>0</td>
+                            <td>1</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
+                            <td class="main_futbol_tabla_ocultar">4</td>
+                            <td class="main_futbol_tabla_ocultar">5</td>
+                            <td>-1</td>
                         </tr>
                         <tr class="main_futbol_tabla_equipos">
                             <td>5°</td>
                             <td>DEPORTIVO PALO</td>
                             <td>0</td>
-                            <td>0</td>
+                            <td>1</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
+                            <td class="main_futbol_tabla_ocultar">4</td>
+                            <td class="main_futbol_tabla_ocultar">8</td>
+                            <td>-4</td>
                         </tr>
                         <tr class="main_futbol_tabla_equipos">
                             <td>6°</td>
-                            <td>DEPORTIVO PALO</td>
+                            <td>REAL SICARIONA</td>
                             <td>0</td>
-                            <td>0</td>
+                            <td>1</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
                             <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
-                        </tr>
-                        <tr class="main_futbol_tabla_equipos">
-                            <td>7°</td>
-                            <td>DEPORTIVO PALO</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
-                        </tr>
-                        <tr class="main_futbol_tabla_equipos">
-                            <td>8°</td>
-                            <td>DEPORTIVO PALO</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
-                        </tr>
-                        <tr class="main_futbol_tabla_equipos">
-                            <td>9°</td>
-                            <td>DEPORTIVO PALO</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
-                        </tr>
-                        <tr class="main_futbol_tabla_equipos">
-                            <td>10°</td>
-                            <td>DEPORTIVO PALO</td>
-                            <td>0</td>
-                            <td>0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td class="main_futbol_tabla_ocultar">0</td>
-                            <td>0</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
+                            <td class="main_futbol_tabla_ocultar">1</td>
+                            <td class="main_futbol_tabla_ocultar">5</td>
+                            <td>-4</td>
                         </tr>
                     </table>
                 </div>

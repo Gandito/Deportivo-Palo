@@ -1,5 +1,6 @@
 /* GENERAL */
 @media screen and (max-width: 1280px) {
+
     .main_club,
     .main_plantel,
     .main_futbol,
@@ -31,6 +32,7 @@
 }
 
 @media screen and (max-width: 768px) {
+
     .main_club,
     .main_plantel,
     .main_futbol,
@@ -63,6 +65,7 @@
 }
 
 @media screen and (max-width: 380px) {
+
     .main_club,
     .main_plantel,
     .main_futbol,
@@ -516,6 +519,7 @@
 }
 
 @media screen and (max-width: 380px) {
+
     .main_plantel_arqueros,
     .main_plantel_defensores,
     .main_plantel_mediocampistas,
@@ -539,7 +543,7 @@
     }
 
     .contenedor_nombreEquipo_tablero_fixture p {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .contenedor_fecha_fixture p {
@@ -606,7 +610,7 @@
     }
 
     .contenedor_nombreEquipo_tablero_fixture p {
-        font-size: 21px;
+        font-size: 18px;
     }
 
     .contenedor_fecha_fixture p {
@@ -684,7 +688,7 @@
     }
 
     .contenedor_nombreEquipo_tablero_fixture p {
-        font-size: 16.1px;
+        font-size: 13px;
     }
 
     .contenedor_fecha_fixture p {
@@ -750,6 +754,10 @@
         margin-right: 7px;
         font-size: 18px;
 
+    }
+
+    .contenedor_nombreEquipo_tablero_fixture {
+        justify-content: center;
     }
 
     .contenedor_nombreEquipo_tablero_fixture p {
@@ -873,6 +881,11 @@
     .contenedor_torneo {
         margin-top: 20px;
     }
+
+    .main_futbol_tabla table,
+    td {
+        font-size: 10px;
+    }
 }
 
 /* DEPORTIVO */
@@ -958,16 +971,46 @@
     .lns p {
         font-size: 14px;
     }
+
+    .h4_formulario_marketing {
+        font-size: 25px;
+    }
+
+    .contenedor_formulario {
+        width: 70%;
+    }
+
+    .contenedor_seccion_formulario_marketing textarea {
+        max-height: 300px;
+    }
 }
 
 @media screen and (max-width: 768px) {
+
     .almacen h3,
     .lns h3 {
         font-size: 18px;
     }
+
+    .main_marketing {
+        width: 100%;
+    }
+
+    .h4_formulario_marketing {
+        font-size: 22px;
+    }
+
+    .contenedor_formulario {
+        width: 100%;
+    }
+
+    .contenedor_seccion_formulario_marketing textarea {
+        max-height: 300px;
+    }
 }
 
 @media screen and (max-width: 380px) {
+
     .almacen h3,
     .lns h3 {
         font-size: 13px;
@@ -976,5 +1019,13 @@
     .almacen p,
     .lns p {
         font-size: 12px;
+    }
+
+    .h4_formulario_marketing {
+        font-size: 22px;
+    }
+
+    .contenedor_seccion_formulario_marketing input {
+        width: 100%;
     }
 }
