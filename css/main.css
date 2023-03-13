@@ -1,0 +1,1176 @@
+.main_club,
+.main_plantel,
+.main_futbol,
+.main_deportivo,
+.main_socios,
+.main_marketing,
+.main_canticos {
+  width: 70%;
+  margin: 115px auto 50px;
+}
+
+.main_index {
+  margin-top: 115px;
+  margin-bottom: 50px;
+}
+
+.main_club h1,
+.main_plantel h1,
+.main_futbol h1,
+.main_deportivo h1,
+.main_socios h1,
+.main_marketing h1,
+.main_canticos h1 {
+  color: #a7a7a7;
+  font-family: RobotoBlack;
+  font-size: 80px;
+}
+
+.main_club h2,
+.main_plantel h2,
+.main_futbol h2,
+.main_deportivo h2,
+.main_socios h2,
+.main_marketing h2,
+.main_canticos h2 {
+  margin: 30px 0 30px 0;
+  font-family: RobotoBold;
+  text-transform: uppercase;
+}
+
+.main_plantel h2,
+.main_futbol h2,
+.main_deportivo h2,
+.main_socios h2,
+.main_marketing h2,
+.main_canticos h2 {
+  color: #2ECC71;
+}
+
+/* INDEX */
+.main_seccion_superior {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.main_superior_izquierda {
+  background-color: rgb(0, 0, 0);
+  border: 3px white solid;
+  border-radius: 15px;
+  box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.75);
+  height: 718px;
+  margin: 20px;
+  position: relative;
+  -moz-box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.75);
+}
+
+.main_superior_izquierda article {
+  border-radius: 15px;
+  height: 712px;
+  width: 100%;
+}
+
+#img_1 {
+  background-image: url(../images/Imagen_Main_1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img_2 {
+  background-image: url(../images/Imagen_Main_2.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img_3 {
+  background-image: url(../images/Imagen_Main_3.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img_4 {
+  background-image: url(../images/Imagen_Main_4.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img_5 {
+  background-image: url(../images/Imagen_Main_5.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main_img1_mostrar,
+.main_img2_mostrar,
+.main_img3_mostrar,
+.main_img4_mostrar,
+.main_img5_mostrar {
+  animation-delay: .0s;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+  animation-name: animacion_img_main;
+  display: block;
+  opacity: 0;
+}
+
+.main_img1_ocultar,
+.main_img2_ocultar,
+.main_img3_ocultar,
+.main_img4_ocultar,
+.main_img5_ocultar {
+  display: none;
+  opacity: 0;
+}
+
+.main_icono_img_anterior,
+.main_icono_img_siguiente {
+  color: rgba(255, 255, 255, 0.616);
+  cursor: pointer;
+  font-size: 70px;
+  position: absolute;
+  top: 0%;
+  transition: color .3s, background .4s;
+  z-index: 10;
+}
+
+.main_contenedor_puntos {
+  bottom: 30px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+#mostrar {
+  animation-delay: .0s;
+  animation-duration: 1.5s;
+  animation-fill-mode: forwards;
+  animation-name: animacion_puntos;
+  border: none;
+  border-radius: 50px;
+  color: rgba(255, 255, 255, 0.914);
+  cursor: pointer;
+  font-size: 18px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 1px 1.2px 1px 1px;
+  transition: color .3s, font-size .3s;
+}
+
+#mostrar:hover {
+  color: rgb(255, 255, 255);
+}
+
+#ocultar {
+  border: none;
+  border-radius: 50px;
+  color: rgba(255, 255, 255, 0.452);
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 1px 1.2px 1px 1px;
+  transition: color .3s, font-size .2s;
+}
+
+#ocultar:hover {
+  color: rgba(255, 255, 255, 0.627);
+}
+
+.main_icono_img_siguiente {
+  border-radius: 0px 15px 15px 0px;
+  padding: 327px 30px 315px 30px;
+  right: 0%;
+}
+
+.main_icono_img_siguiente:active {
+  background: #e74d3c93;
+  color: rgb(255, 255, 255);
+}
+
+.main_icono_img_siguiente:hover {
+  background: #e74d3c48;
+  color: rgba(255, 255, 255, 0.888);
+}
+
+.main_icono_img_anterior {
+  border-radius: 15px 0px 0px 15px;
+  left: 0%;
+  padding: 327px 30px 315px 30px;
+}
+
+.main_icono_img_anterior:active {
+  background: #2ecc70c9;
+  color: rgb(255, 255, 255);
+}
+
+.main_icono_img_anterior:hover {
+  background: #2ecc7058;
+  color: rgba(255, 255, 255, 0.888);
+}
+
+.main_superior_derecha {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(350deg, rgba(0, 0, 0, 1) 0%, rgba(39, 55, 70, 1) 100%);
+  border: 3px solid white;
+  border-radius: 15px;
+  box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.75);
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow .3s;
+  height: 718px;
+  margin: 20px 20px 0 0;
+  -moz-box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.75);
+}
+
+.main_superior_derecha:hover {
+  box-shadow: 5px 5px 12px 0px rgba(59, 59, 59, 0.75);
+  -moz-box-shadow: 5px 5px 12px 0px rgba(53, 53, 53, 0.75);
+  -webkit-box-shadow: 5px 5px 12px 0px rgba(62, 62, 62, 0.75);
+}
+
+.main_superior_derecha h2 {
+  margin: 20px;
+}
+
+.main_superior_derecha h2:hover {
+  color: rgb(255, 255, 255);
+}
+
+.main_superior_derecha h3 {
+  color: white;
+  font-family: Graduate;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.main_superior_derecha h2,
+.main_superior_derecha h4 {
+  color: rgb(221, 221, 221);
+  font-family: Graduate;
+  font-size: 40px;
+  font-weight: 400;
+  transition: color .3s;
+}
+
+.main_partido {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.main_local,
+.main_visita {
+  width: 35%;
+}
+
+.main_local h3,
+.main_visita h3 {
+  font-size: 14px;
+}
+
+.main_local img,
+.main_visita img {
+  height: 159px;
+}
+
+.main_resultado,
+.main_vs {
+  font-size: 38px;
+}
+
+.main_inferior {
+  align-items: center;
+  background-image: url(../images/Imagen_Main_Inferior.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  display: flex;
+  height: 800px;
+  justify-content: center;
+  margin: 0 20px 30px 20px;
+}
+
+.main_inferior a {
+  color: transparent;
+  cursor: pointer;
+  font-family: RobotoBold;
+  font-size: 128px;
+  text-align: center;
+  text-shadow: 10px 10px 15px black;
+  transition: all 0.4s;
+  -webkit-text-stroke: 2px #ffffff;
+}
+
+.main_inferior a:hover {
+  color: white;
+  font-size: 125px;
+}
+
+.main_letra_verde {
+  -webkit-text-stroke: 3px #77f592;
+}
+
+.main_letra_blanca {
+  -webkit-text-stroke: 3px rgb(219, 219, 219);
+}
+
+.main_letra_roja {
+  -webkit-text-stroke: 3px #e46262;
+}
+
+.main_videos {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.main_videos a {
+  color: transparent;
+  cursor: pointer;
+  font-family: RobotoBold;
+  font-size: 48px;
+  margin-left: 20px;
+  margin-top: 25px;
+  transition: color 0.4s;
+  width: 40%;
+  -webkit-text-stroke: 2px #ffffff;
+}
+
+.main_videos a:hover {
+  color: white;
+}
+
+.main_video_principal {
+  align-self: center;
+  background-color: black;
+  border-radius: 27px;
+  height: 278px;
+  width: 527px;
+}
+
+.main_video_principal video {
+  border-radius: 27px;
+  box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.75);
+  height: 100%;
+  width: 100%;
+  -moz-box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.75);
+}
+
+.main_video_principal video:focus {
+  border: 2px solid white;
+}
+
+.main_videos_xxs {
+  display: none;
+}
+
+.main_galeria_xxs {
+  display: none;
+}
+
+@keyframes animacion_img_main {
+  0% {
+    font-size: 16;
+    opacity: 0;
+  }
+
+  100% {
+    font-size: 18;
+    opacity: 1;
+  }
+}
+
+/* CLUB */
+.main_club h3 {
+  color: #2ecc71;
+  font-family: RobotoRegular;
+  font-size: 22px;
+}
+
+.main_club_datos_flex {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.main_club_imagenes_datos {
+  width: 525px;
+}
+
+.main_club_imagenes_datos img {
+  animation-delay: .3s;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-name: animacion_imagenes_datos;
+  border-radius: 12px;
+  box-shadow: 5px 5px 10px gray;
+  height: 325px;
+  margin: 5px;
+  opacity: 0;
+  transform: translateX(100px);
+  transition: box-shadow 0.2s;
+  width: 500px;
+}
+
+.main_club_imagenes_datos img:hover {
+  box-shadow: 0px 0px 10px rgb(255, 141, 141);
+}
+
+.main_club_historia_contenedor1,
+.main_club_historia_contenedor2 {
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+.main_club_historia_imagen1,
+.main_club_historia_imagen2 {
+  border-radius: 12px;
+  width: 550px;
+}
+
+.main_club_historia_imagen1 {
+  float: right;
+  margin-left: 10px;
+  margin-right: 18px;
+}
+
+.main_club_historia_imagen2 {
+  float: left;
+  margin-right: 10px;
+}
+
+.main_club_historia_parrafo {
+  color: rgb(141, 141, 141);
+  font-family: RobotoBold;
+  font-size: 19px;
+  margin-right: 18px;
+}
+
+.main_club_imagen_ocultar {
+  display: none;
+}
+
+@keyframes animacion_imagenes_datos {
+  0% {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+/* PLANTEL */
+.main_plantel_imagen {
+  height: 444px;
+  width: 100%;
+}
+
+.main_plantel_arqueros,
+.main_plantel_defensores,
+.main_plantel_mediocampistas,
+.main_plantel_delanteros {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+.main_plantel_arquero1,
+.main_plantel_arquero2 {
+  position: relative;
+}
+
+.main_plantel_defensor1,
+.main_plantel_defensor2,
+.main_plantel_defensor3,
+.main_plantel_defensor4,
+.main_plantel_defensor5,
+.main_plantel_defensor6 {
+  position: relative;
+}
+
+.main_plantel_mediocampista1,
+.main_plantel_mediocampista2,
+.main_plantel_mediocampista3,
+.main_plantel_mediocampista4,
+.main_plantel_mediocampista5 {
+  position: relative;
+}
+
+.main_plantel_delantero1,
+.main_plantel_delantero2,
+.main_plantel_delantero3 {
+  position: relative;
+}
+
+.main_plantel_nombre {
+  background-color: #e46262;
+  border-radius: 8px;
+  bottom: 0%;
+  color: white;
+  font-family: Graduate;
+  padding: 12px;
+  position: absolute;
+  text-transform: uppercase;
+}
+
+.main_plantel_apellido {
+  font-size: 28px;
+}
+
+.main_plantel_linea {
+  background-color: lightgray;
+  height: 1px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+/* FUTBOL */
+.contenedor_principal_main_fixture {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  grid-template-rows: 100%;
+  margin-top: 10px;
+}
+
+.contenedor_principal_main_fixture2_mostrar {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 100%;
+  margin-top: 10px;
+  width: 75%;
+}
+
+.contenedor_izquierda_main_fixture {
+  border-bottom: 1px solid #bcc1c9;
+  margin-bottom: 50px;
+}
+
+.contenedor_izquierda_main_fixture h4 {
+  color: #2ECC71;
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.mostrar_fixture {
+  display: block;
+}
+
+#ocultar_fixture {
+  display: none;
+}
+
+.nav_fixture_izquierda {
+  display: flex;
+  margin: 0px;
+  margin-top: 15px;
+}
+
+.nav_fixture_izquierda p {
+  cursor: pointer;
+  font-family: OpenSansRegular;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 8px 16px;
+  margin-bottom: 25px;
+  transition: color .3s, background .3s;
+}
+
+.boton_fixture_encender,
+.boton_fixture_encender2 {
+  color: rgb(242, 242, 242);
+  background-color: #28B463;
+}
+
+.boton_fixture_encender:hover,
+.boton_fixture_encender2:hover {
+  color: rgb(242, 242, 242);
+  background-color: #2ECC71;
+}
+
+#boton_fixture_apagar,
+#boton_fixture_apagar2 {
+  color: #28B463;
+  background-color: white;
+  border-bottom: 1px solid rgb(210, 210, 210);
+}
+
+.boton_calendario_apagar,
+.boton_calendario_apagar2 {
+  color: #e46262;
+  border-bottom: 1px solid rgb(210, 210, 210);
+}
+
+#boton_calendario_encender,
+#boton_calendario_encender2 {
+  background-color: #e46262;
+  color: rgb(242, 242, 242);
+}
+
+#boton_calendario_encender:hover,
+#boton_calendario_encender2:hover {
+  background-color: #e37777;
+  color: rgb(242, 242, 242);
+}
+
+.contenedor_tablero_fixture {
+  display: grid;
+  grid-template-columns: 40% 20% 40%;
+  grid-template-rows: 100%;
+  height: 20%;
+  margin: auto;
+  width: 90%;
+}
+
+.contenedor_tablero_fixture img {
+  height: auto;
+  width: 60px;
+}
+
+.contenedor_tablero_fixture img:nth-child(1) {
+  margin-right: 15px;
+}
+
+.contenedor_tablero_fixture img:nth-child(2) {
+  margin-left: 15px;
+}
+
+.contenedor_tablero_fixture span {
+  align-items: center;
+  color: #bcc1c9;
+  display: flex;
+  font-size: 40px;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+.contenedor_nombreEquipo_tablero_fixture {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.contenedor_nombreEquipo_tablero_fixture p {
+  font-family: RiftDemi;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+#ancla_torneo {
+  font-size: 0px;
+}
+
+.contenedor_torneo {
+  margin-top: 60px;
+}
+
+.contenedor_fecha_fixture {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.contenedor_fecha_fixture p {
+  color: #bcc1c9;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.fecha_fixture {
+  margin: 0px;
+  transform: translateY(20px);
+}
+
+.contenedor_derecha_main_fixture {
+  height: 90%;
+  position: absolute;
+  right: 14%;
+}
+
+.nav_fixture_derecha {
+  background-color: #F8F9FA;
+  box-shadow: 4px 4px 9px 1px rgba(0, 0, 0, 0.289);
+  padding: 15px;
+  position: sticky;
+  text-align: center;
+  top: 110px;
+  width: 222px;
+  -moz-box-shadow: 4px 4px 9px 1px rgba(0, 0, 0, 0.322);
+  -webkit-box-shadow: 4px 4px 9px 1px rgba(0, 0, 0, 0.287);
+}
+
+.nav_fixture_derecha h4 {
+  color: #e46262;
+  text-align: center;
+  font-family: RiftDemi;
+  font-size: 55px;
+  margin-bottom: 0px;
+}
+
+.nav_fixture_derecha li {
+  background-color: #2ECC71;
+  list-style: none;
+  margin-top: 10px;
+  padding: 3px;
+  text-align: left;
+}
+
+.nav_fixture_derecha li:nth-child(1) {
+  background-color: #2ecc7000;
+}
+
+.nav_fixture_derecha li a {
+  background-color: #2ECC71;
+  color: white;
+  font-family: OpenSansRegular;
+  font-size: 17px;
+  font-weight: bold;
+  padding-right: 120px;
+}
+
+.nav_fixture_derecha li a:hover {
+  color: rgba(255, 255, 255, 0.845);
+  font-family: OpenSansRegular;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ancla {
+  color: rgba(255, 255, 255, 0);
+  font-size: 90px;
+  user-select: none;
+}
+
+.contenedor_derecha_main_calendario {
+  height: 85%;
+  position: absolute;
+  right: 14%;
+}
+
+#contenedor_principal_main_calendario_mostrar {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  grid-template-rows: 100%;
+  margin-bottom: 80px;
+  margin-top: 10px;
+}
+
+.contenedor_principal_main_calendario_ocultar {
+  display: none;
+}
+
+.contenedor_izquierda_main_calendario {
+  display: block;
+  width: 95%;
+}
+
+.ul_jornadas {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr) 0.5fr;
+  grid-template-rows: 1fr;
+}
+
+.ul_jornadas li {
+  background-color: #dadee3;
+  color: #28bd66;
+  cursor: pointer;
+  font-family: robotoRegular;
+  font-size: 13px;
+  font-weight: bold;
+  list-style: none;
+  padding: 12px 10px;
+  text-align: center;
+  width: 99.2%;
+}
+
+.ul_jornadas li:hover {
+  background-color: #CBD0D6;
+  color: black;
+}
+
+.ul_jornadas_desplegables {
+  height: max-content;
+}
+
+.contenedor_listas_desplegables_ocultar {
+  display: none;
+  position: absolute;
+  z-index: 10;
+}
+
+.contenedor_listas_desplegables_ocultar li {
+  width: 100%;
+}
+
+#boton_lista_desplegable {
+  background-color: #2ecc71;
+  color: #ffffff;
+}
+
+#boton_lista_desplegable:hover {
+  background-color: #33d878;
+  color: #ffffff;
+}
+
+#contenedor_listas_desplegables_mostrar {
+  display: block;
+  position: absolute;
+  z-index: 10;
+}
+
+#contenedor_listas_desplegables_ocultar {
+  display: none;
+  position: absolute;
+  z-index: 10;
+}
+
+.contenedor_listas_desplegables_mostrar {
+  display: block;
+  position: absolute;
+  z-index: 10;
+}
+
+.jornada6_ocultar {
+  display: none;
+}
+
+.jornada7_ocultar {
+  display: none;
+}
+
+.mostrar_jornada {
+  display: block;
+}
+
+#mostrar_jornada {
+  display: block;
+}
+
+.ocultar_jornada {
+  display: none;
+}
+
+#ocultar_jornada {
+  display: none;
+}
+
+#jornada_seleccionada {
+  background-color: #2ECC71;
+  color: white;
+}
+
+#jornada_seleccionada:hover {
+  background-color: #26aa5d;
+}
+
+#jornada_seleccionada a {
+  color: white;
+}
+
+.tabla_calendario {
+  align-items: center;
+  background-color: #F8F9FA;
+  display: grid;
+  font-family: OpenSansRegular;
+  font-size: 15px;
+  font-weight: bold;
+  grid-template-columns: 1fr 3fr 1fr 1fr 1fr 3fr;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+}
+
+.tabla_calendario img {
+  height: auto;
+  width: 30px;
+}
+
+.main_futbol_contenedor_principal_calendario {
+  display: grid;
+  grid-template-columns: 75%;
+  grid-template-rows: 100%;
+  margin-top: 10px;
+}
+
+.main_futbol_nav_fixture_derecha {
+  display: none;
+}
+
+.main_futbol_nav_fixture_derecha h4 {
+  color: #bcc1c9;
+  font-family: RiftDemi;
+  font-size: 31px;
+}
+
+.main_futbol_nav_fixture_derecha li {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.main_futbol_nav_fixture_derecha li a {
+  color: #2ecc71;
+  font-family: OpenSansRegular;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.main_futbol_nav_fixture_derecha li a:hover {
+  color: #31e07a;
+  font-family: OpenSansRegular;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.main_futbol_estadisticas {
+  display: grid;
+  font-family: Graduate;
+  gap: 7.4px;
+  grid-template-columns: repeat(6, 1fr);
+  text-align: center;
+}
+
+.main_futbol_estadisticas h3 {
+  color: #e46262;
+  font-size: 26px;
+}
+
+.main_futbol_estadisticas h4 {
+  font-size: 12px;
+}
+
+.main_futbol_ranking_tabla_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.main_futbol_ranking_tabla_grid span {
+  background-color: #ffdddd;
+  border: 1px solid white;
+  color: #e46262;
+  cursor: pointer;
+  display: block;
+  font-family: RobotoBold;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  transition: 0.2s;
+}
+
+.main_futbol_ranking_jugador_grid {
+  align-items: center;
+  border: 1px solid white;
+  display: grid;
+  font-family: RiftDemi;
+  grid-template-columns: 0.5fr 1.5fr 1fr 1fr;
+  padding: 7px;
+  text-align: left;
+}
+
+.main_futbol_ranking_pj,
+.main_futbol_ranking_goles {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.main_futbol_ranking_jugador_primero {
+  background-color: #e46262;
+  color: white;
+  padding: 10px;
+}
+
+.main_futbol_ranking_jugador_par {
+  background-color: #fdf5f5;
+}
+
+.main_futbol_ranking_jugador_impar {
+  background-color: #ffeeee;
+}
+
+.main_futbol_tabla table {
+  text-align: center;
+  width: 100%;
+}
+
+.main_futbol_tabla table,
+td {
+  border: 1px solid rgb(194, 194, 194);
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+.main_futbol_tabla_principal {
+  background-color: #e46262;
+  color: white;
+  font-family: RobotoBold;
+  font-size: 18px;
+}
+
+.main_futbol_tabla_principal td {
+  border: none;
+}
+
+.main_futbol_tabla_equipos {
+  font-family: Graduate;
+}
+
+.goles {
+  display: grid;
+}
+
+.goles_encajados {
+  display: none;
+}
+
+.tarjetas_amarillas {
+  display: none;
+}
+
+.tarjetas_rojas {
+  display: none;
+}
+
+.main_futbol_titulos_campeonatos {
+  font-family: RiftDemi;
+  font-size: 18px;
+  text-align: center;
+}
+
+.main_futbol_ranking_tabla_grid .goles_contenedor {
+  background-color: #e46262;
+  color: white;
+}
+
+#contenedor_goles_tarjetas_fondo_mostrar {
+  background-color: #e46262;
+  color: white;
+}
+
+#contenedor_goles_tarjetas_fondo_ocultar {
+  background-color: #ffdddd;
+  color: #e46262;
+}
+
+#contenedor_goles_tarjetas_fondo_ocultar:hover {
+  background-color: #e4626298;
+  color: white;
+}
+
+#contenedor_goles_tarjetas_mostrar {
+  display: grid;
+}
+
+#contenedor_goles_tarjetas_ocultar {
+  display: none;
+}
+
+/* DEPORTIVO */
+.main_deportivo_contenedor_grid {
+  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(3, 32.3%);
+  height: 1200px;
+  justify-content: space-between;
+}
+
+.main_deportivo_contenido {
+  background-image: url(../images/Imagen_Main_1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 380px;
+  position: relative;
+  width: 100%;
+}
+
+.noticia1 {
+  background-color: white;
+  color: #e46262;
+  font-family: RobotoBold;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.noticia2 {
+  background-image: linear-gradient(135deg, white 90%, #e46262 10%);
+  bottom: 0;
+  color: #e46262;
+  font-family: RobotoBold;
+  font-size: 18px;
+  height: 150px;
+  line-height: 150px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.main_deportivo_escudo {
+  background-color: white;
+  border-radius: 0 0 100% 0;
+  height: 115px;
+  position: relative;
+  width: 115px;
+}
+
+.main_deportivo_escudo img {
+  position: absolute;
+  top: 10px;
+  width: 90px;
+}
+
+/* SOCIOS */
+
+/* MARKETING */
+.main_marketing_contenedor {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.main_marketing_contenido {
+  border: 1px solid #e46262;
+  width: 49.7%;
+  height: 700px;
+}
+
+.main_marketing_contenido img {
+  width: 100%;
+}
+
+.almacen h3,
+.lns h3 {
+  color: #e46262;
+  font-family: Graduate;
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+}
+
+.almacen p,
+.lns p {
+  color: #535353;
+  font-family: OpenSansRegular;
+  width: 100%;
+  text-align: center;
+}
