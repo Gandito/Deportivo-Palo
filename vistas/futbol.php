@@ -747,7 +747,7 @@
         </div>
 
         <span id="ancla_torneo" class="ancla">Torneo</span>
-        
+
         <div class="main_futbol_contenedor_principal_calendario">
             <div class="contenedor_torneo">
                 <h1 class="main_futbol_torneo">TORNEO</h1>
@@ -1754,7 +1754,7 @@
                             <td class="main_futbol_tabla_ocultar">5</td>
                             <td>-1</td>
                         </tr>
-                        <tr class="main_futbol_tabla_equipos">
+                        <tr class="main_futbol_tabla_equipos cfdp">
                             <td>5°</td>
                             <td>DEPORTIVO PALO</td>
                             <td>0</td>
