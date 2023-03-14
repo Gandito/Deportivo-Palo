@@ -699,7 +699,6 @@
                     </div>
                     <div class="contenedor_fecha_fixture">
                         <p class="fecha_fixture">8ª fecha / 30-04-2023 / -hs.</p>
-                        <span id="ancla_torneo" class="ancla">Torneo</span>
                     </div>
                 </div>
             </div>
@@ -747,6 +746,8 @@
             </div>
         </div>
 
+        <span id="ancla_torneo" class="ancla">Torneo</span>
+        
         <div class="main_futbol_contenedor_principal_calendario">
             <div class="contenedor_torneo">
                 <h1 class="main_futbol_torneo">TORNEO</h1>
