@@ -703,49 +703,50 @@
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="contenedor_principal_main_fixture2_mostrar">
-            <div class="contenedor_izquierda_main_fixture">
-                <div class="contenedor_tablero_fixture">
-                    <div class="contenedor_nombreEquipo_tablero_fixture">
-                        <p>Notingan Miedo FC</p>
-                        <img src="../icons/escudoVisita.png" alt="">
+            <div class="contenedor_principal_main_fixture2_mostrar">
+                <div class="contenedor_izquierda_main_fixture">
+                    <div class="contenedor_tablero_fixture">
+                        <div class="contenedor_nombreEquipo_tablero_fixture">
+                            <p>Notingan Miedo FC</p>
+                            <img src="../icons/escudoVisita.png" alt="">
+                        </div>
+                        <div>
+                            <span>- vs -</span>
+                        </div>
+                        <div class="contenedor_nombreEquipo_tablero_fixture">
+                            <img src="../icons/escudoPalo.png" alt="">
+                            <p>Deportivo Palo</p>
+                        </div>
                     </div>
-                    <div>
-                        <span>- vs -</span>
-                    </div>
-                    <div class="contenedor_nombreEquipo_tablero_fixture">
-                        <img src="../icons/escudoPalo.png" alt="">
-                        <p>Deportivo Palo</p>
+                    <div class="contenedor_fecha_fixture">
+                        <p class="fecha_fixture">9ª fecha / 07-05-2023 / -hs.</p>
                     </div>
                 </div>
-                <div class="contenedor_fecha_fixture">
-                    <p class="fecha_fixture">9ª fecha / 07-05-2023 / -hs.</p>
+            </div>
+
+            <div class="contenedor_principal_main_fixture2_mostrar">
+                <div class="contenedor_izquierda_main_fixture">
+                    <div class="contenedor_tablero_fixture">
+                        <div class="contenedor_nombreEquipo_tablero_fixture">
+                            <p>Deportivo Palo</p>
+                            <img src="../icons/escudoPalo.png" alt="">
+                        </div>
+                        <div>
+                            <span>- vs -</span>
+                        </div>
+                        <div class="contenedor_nombreEquipo_tablero_fixture">
+                            <img src="../icons/escudoVisita.png" alt="">
+                            <p>Ringo Samba</p>
+                        </div>
+                    </div>
+                    <div class="contenedor_fecha_fixture">
+                        <p class="fecha_fixture">10ª fecha / 14-05-2023 / -hs.</p>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="contenedor_principal_main_fixture2_mostrar">
-            <div class="contenedor_izquierda_main_fixture">
-                <div class="contenedor_tablero_fixture">
-                    <div class="contenedor_nombreEquipo_tablero_fixture">
-                        <p>Deportivo Palo</p>
-                        <img src="../icons/escudoPalo.png" alt="">
-                    </div>
-                    <div>
-                        <span>- vs -</span>
-                    </div>
-                    <div class="contenedor_nombreEquipo_tablero_fixture">
-                        <img src="../icons/escudoVisita.png" alt="">
-                        <p>Ringo Samba</p>
-                    </div>
-                </div>
-                <div class="contenedor_fecha_fixture">
-                    <p class="fecha_fixture">10ª fecha / 14-05-2023 / -hs.</p>
-                </div>
-            </div>
-        </div>
         <div class="main_futbol_contenedor_principal_calendario">
             <div class="contenedor_torneo">
                 <h1 class="main_futbol_torneo">TORNEO</h1>
@@ -861,7 +862,7 @@
                             <span>5</span>
                         </div>
                         <div>
-                            <span>Gabriel</span>
+                            <span>Gabriel Rosulfo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1048,7 +1049,6 @@
                             <span>0</span>
                         </div>
                     </div>
-
                     <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_impar goles id_goles_17">
                         <div>
                             <span>17</span>
@@ -1065,7 +1065,6 @@
                             <span>0</span>
                         </div>
                     </div>
-
                     <div class="main_futbol_ranking_jugador_grid main_futbol_ranking_jugador_par goles id_goles_18">
                         <div>
                             <span>18</span>
@@ -1391,7 +1390,7 @@
                             <span>18</span>
                         </div>
                         <div>
-                            <span>Gabriel</span>
+                            <span>Gabriel Rosulfo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1679,7 +1678,7 @@
                             <span>18</span>
                         </div>
                         <div>
-                            <span>Gabriel</span>
+                            <span>Gabriel Rosulfo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1797,7 +1796,7 @@
         </div>
         <span id="ancla_titulos" class="ancla">Titulos</span>
         <h1 class="main_futbol_titulos">TITULOS</h1>
-        <p class="main_futbol_titulos_campeonatos">Todavia no se encuentra ningun campeonato.</p>
+        <p class="main_futbol_titulos_campeonatos">Todavia no se encuentra ningun titulo.</p>
         <h2>FECHA DE LOS TITULOS CONSEGUIDOS</h2>
     </main>
 

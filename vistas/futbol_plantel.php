@@ -76,7 +76,7 @@
             </div>
             <div class="main_plantel_mediocampista5">
                 <img class="main_mediocampistas main_plantel_imagen" src="../images/jugadores.jpg" alt="">
-                <h3 class="main_plantel_nombre">Gabriel <br> <span class="main_plantel_apellido"></span></h3>
+                <h3 class="main_plantel_nombre">Gabriel <br> <span class="main_plantel_apellido">Rosulfo</span></h3>
             </div>
         </div>
         <h2>Delanteros</h2>
