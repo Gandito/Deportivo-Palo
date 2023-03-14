@@ -1151,7 +1151,7 @@ td {
 }
 
 .main_marketing_contenido {
-  border: 1px solid #e46262;
+  border: 1px solid #fecdcd;
   width: 49.7%;
   height: 700px;
 }
@@ -1171,24 +1171,24 @@ td {
 
 .almacen p,
 .lns p {
-  color: #535353;
+  color: #292929;
   font-family: OpenSansRegular;
+  font-weight: bold;
+  padding: 20px;
   width: 100%;
   text-align: center;
 }
 
 .h4_formulario_marketing{
-  color: #26aa5d;
+  color: #2ECC71;
   font-weight: bold;
   font-family: OpenSansRegular;
   font-size: 30px;
-  text-align: center;
   margin-top: 30px;
 }
 
 .contenedor_formulario {
   background-color: #2ECC71 ;
-  margin: auto;
   margin-top: 15px;
   width: 50%;
 }

@@ -977,7 +977,7 @@
     }
 
     .contenedor_formulario {
-        width: 70%;
+        width: 50%;
     }
 
     .contenedor_seccion_formulario_marketing textarea {
@@ -992,8 +992,14 @@
         font-size: 18px;
     }
 
+    .almacen p,
+    .lns p {
+        font-size: 12px;
+    }
+
     .main_marketing {
         width: 100%;
+        text-align: center;
     }
 
     .h4_formulario_marketing {
@@ -1018,7 +1024,7 @@
 
     .almacen p,
     .lns p {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .h4_formulario_marketing {
