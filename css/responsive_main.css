@@ -976,6 +976,10 @@
         font-size: 25px;
     }
 
+    .contenedor_formulario {
+        width: 100%;
+    }
+
     .contenedor_seccion_formulario_marketing textarea {
         max-height: 300px;
     }
@@ -1042,21 +1046,42 @@
     }
 
     .h4_formulario_marketing {
-        font-size: 22px;
+        font-size: 20px;
+        margin-top: 40px;
+    }
+
+    .contenedor_formulario {
+        margin-top: 7px;
+    }
+
+    .contenedor_seccion_formulario_marketing:nth-last-of-type(2) {
+        margin-top: 15px;
+    }
+
+
+    .contenedor_boton_formulario_marketing {
+        margin-top: 15px;
     }
 
     .contenedor_seccion_formulario_marketing label {
         font-size: 15px;
+        padding-top: 5px;
         font-weight: bold;
     }
 
     .contenedor_seccion_formulario_marketing input {
+        font-size: 16px;
+        height: 35px;
         width: 100%;
-        height: 40px;
     }
 
     .contenedor_seccion_formulario_marketing textarea {
-        height: 90px;
-        min-height: 90px;
+        font-size: 16px;
+        height: 80px;
+        min-height: 80px;
+    }
+
+    .contenedor_boton_formulario_marketing button {
+        padding: 10px 14px;
     }
 }

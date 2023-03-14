@@ -16,52 +16,73 @@
         <h1>NOTICIAS</h1>
         <div class="main_deportivo_contenedor_grid">
             <div class="main_deportivo_contenido">
-                <div class="noticia1">
-                    <h3>Noticia 1</h3>
+                <div class="noticia">
+                    <h3>DERROTA DE DEPORTIVO PALO ANTE ARAMBURU</h3>
                 </div>
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
             </div>
             <div class="main_deportivo_contenido">
-                <div class="main_deportivo_escudo">
-                    <img src="../icons/escudoPalo.png" alt="">
+                <div class="noticia">
+                    <h3></h3>
                 </div>
-                <div class="noticia2">
-                    <h3>DRAKE LESIONADO POR TROLO</h3>
-                </div>
-            </div>
-            <div class="main_deportivo_contenido noticia3">
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
             </div>
-            <div class="main_deportivo_contenido noticia4">
+            <div class="main_deportivo_contenido">
+                <div class="noticia">
+                    <h3></h3>
+                </div>
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
             </div>
-            <div class="main_deportivo_contenido noticia5">
+            <div class="main_deportivo_contenido">
+                <div class="noticia">
+                    <h3></h3>
+                </div>
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
             </div>
-            <div class="main_deportivo_contenido noticia6">
+            <div class="main_deportivo_contenido">
+                <div class="noticia">
+                    <h3></h3>
+                </div>
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
             </div>
-            <div class="main_deportivo_contenido noticia7">
+            <div class="main_deportivo_contenido">
+                <div class="noticia">
+                    <h3></h3>
+                </div>
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
             </div>
-            <div class="main_deportivo_contenido noticia8">
+            <div class="main_deportivo_contenido">
+                <div class="noticia">
+                    <h3></h3>
+                </div>
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
             </div>
-            <div class="main_deportivo_contenido noticia9">
+            <div class="main_deportivo_contenido">
+                <div class="noticia">
+                    <h3></h3>
+                </div>
+                <div class="main_deportivo_escudo">
+                    <img src="../icons/escudoPalo.png" alt="">
+                </div>
+            </div>
+            <div class="main_deportivo_contenido">
+                <div class="noticia">
+                    <h3></h3>
+                </div>
                 <div class="main_deportivo_escudo">
                     <img src="../icons/escudoPalo.png" alt="">
                 </div>
