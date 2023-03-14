@@ -897,6 +897,10 @@
     .main_deportivo_contenido {
         height: 395px;
     }
+
+    .noticia h3 {
+        font-size: 20px;
+    }
 }
 
 @media screen and (max-width: 1280px) {
@@ -917,6 +921,10 @@
         top: 5px;
         width: 60px;
     }
+
+    .noticia h3 {
+        font-size: 19px;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -932,11 +940,19 @@
     .main_deportivo_contenido {
         height: 350px;
     }
+
+    .noticia h3 {
+        font-size: 18px;
+    }
 }
 
 @media screen and (max-width: 380px) {
     .main_deportivo {
         height: 3280px;
+    }
+
+    .noticia h3 {
+        font-size: 16px;
     }
 }
 

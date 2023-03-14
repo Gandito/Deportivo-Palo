@@ -1122,10 +1122,11 @@ td {
 
 .noticia h3 {
   position: absolute;
-  bottom: 50px;
+  bottom: 30px;
   color: #ffffff;
   font-family: OpenSansRegular;
   margin: 10px;
+  font-size: 25px;
 }
 
 .main_deportivo_escudo {
@@ -1189,7 +1190,7 @@ td {
 .contenedor_formulario {
   background-color: #2ECC71 ;
   width: 60%;
-  margin: 20px auto;
+  margin: 20px auto 0;
 }
 
 .main_marketing_form {

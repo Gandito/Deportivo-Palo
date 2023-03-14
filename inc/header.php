@@ -31,7 +31,7 @@
                 <li><a href="socios.php#ancla_informacion">Informacion</a></li>
                 <li><a href="socios.php#ancla_valores">Valores</a></li>
                 <li><a href="socios.php#ancla_preguntas">Preguntas</a></li>
-                <li><a href="socios.php#ancla_hacetesocio">Hacete Socio</a></li>
+                <li><a href="socios.php#ancla_hacetesocio">Asociate</a></li>
             </ul>
         </li>
         <li class="header_verde header_uno_verde">
@@ -90,7 +90,7 @@
                     <li><a class="header_cerrar_menu1" href="socios.php#ancla_informacion">Informacion</a></li>
                     <li><a class="header_cerrar_menu2" href="socios.php#ancla_valores">Valores</a></li>
                     <li><a class="header_cerrar_menu3" href="socios.php#ancla_preguntas">Preguntas</a></li>
-                    <li><a class="header_cerrar_menu4" href="socios.php#ancla_hacetesocio">Hacete Socio</a></li>
+                    <li><a class="header_cerrar_menu4" href="socios.php#ancla_hacetesocio">Asociate</a></li>
                 </ul>
             </div>
         </div>
