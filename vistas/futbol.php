@@ -1118,11 +1118,11 @@
                             <span>1</span>
                         </div>
                         <div>
-                            <span>Lautaro Gando</span>
+                            <span>Lucas Ancona</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Amarillas</span>
@@ -1134,11 +1134,11 @@
                             <span>2</span>
                         </div>
                         <div>
-                            <span>Nahuel Robledo</span>
+                            <span>Juan Rodriguez</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Amarillas</span>
@@ -1150,11 +1150,11 @@
                             <span>3</span>
                         </div>
                         <div>
-                            <span>Matias Vallarino</span>
+                            <span>Facundo Villarreal</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Amarillas</span>
@@ -1166,11 +1166,11 @@
                             <span>4</span>
                         </div>
                         <div>
-                            <span>Lucas Ancona</span>
+                            <span>Lorenzo Bianco</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Amarillas</span>
@@ -1182,11 +1182,11 @@
                             <span>5</span>
                         </div>
                         <div>
-                            <span>Franco Romero</span>
+                            <span>Gabriel Rosulfo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Amarillas</span>
@@ -1278,7 +1278,7 @@
                             <span>11</span>
                         </div>
                         <div>
-                            <span>Juan Rodriguez</span>
+                            <span>Lautaro Gando</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1326,7 +1326,7 @@
                             <span>14</span>
                         </div>
                         <div>
-                            <span>Facundo Villarreal</span>
+                            <span>Nahuel Robledo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1374,7 +1374,7 @@
                             <span>17</span>
                         </div>
                         <div>
-                            <span>Lorenzo Bianco</span>
+                            <span>Matias Vallarino</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1390,7 +1390,7 @@
                             <span>18</span>
                         </div>
                         <div>
-                            <span>Gabriel Rosulfo</span>
+                            <span>Franco Romero</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1406,11 +1406,11 @@
                             <span>1</span>
                         </div>
                         <div>
-                            <span>Lautaro Gando</span>
+                            <span>Lucas Ancona</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Rojas</span>
@@ -1422,11 +1422,11 @@
                             <span>2</span>
                         </div>
                         <div>
-                            <span>Matias Vallarino</span>
+                            <span>Juan Rodriguez</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Rojas</span>
@@ -1438,11 +1438,11 @@
                             <span>3</span>
                         </div>
                         <div>
-                            <span>Lucas Ancona</span>
+                            <span>Facundo Villarreal</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Rojas</span>
@@ -1454,11 +1454,11 @@
                             <span>4</span>
                         </div>
                         <div>
-                            <span>Franco Romero</span>
+                            <span>Lorenzo Bianco</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Rojas</span>
@@ -1470,11 +1470,11 @@
                             <span>5</span>
                         </div>
                         <div>
-                            <span>Sebastian Barrionuevo</span>
+                            <span>Gabriel Rosulfo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
-                            <span>0</span>
+                            <span>1</span>
                         </div>
                         <div class="main_futbol_ranking_goles">
                             <span>T. Rojas</span>
@@ -1550,7 +1550,7 @@
                             <span>10</span>
                         </div>
                         <div>
-                            <span>Juan Rodriguez</span>
+                            <span>Lautaro Gando</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1598,7 +1598,7 @@
                             <span>13</span>
                         </div>
                         <div>
-                            <span>Facundo Villarreal</span>
+                            <span>Matias Vallarino</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1662,7 +1662,7 @@
                             <span>17</span>
                         </div>
                         <div>
-                            <span>Lorenzo Bianco</span>
+                            <span>Franco Romero</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
@@ -1678,7 +1678,7 @@
                             <span>18</span>
                         </div>
                         <div>
-                            <span>Gabriel Rosulfo</span>
+                            <span>Sebastian Barrionuevo</span>
                         </div>
                         <div class="main_futbol_ranking_pj">
                             <span>PJ</span>
