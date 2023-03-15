@@ -49,7 +49,7 @@
                         <li><a href="./vistas/socios.php#ancla_informacion">Informacion</a></li>
                         <li><a href="./vistas/socios.php#ancla_valores">Valores</a></li>
                         <li><a href="./vistas/socios.php#ancla_preguntas">Preguntas</a></li>
-                        <li><a href="./vistas/socios.php#ancla_hacetesocio">Hacete Socio</a></li>
+                        <li><a href="./vistas/socios.php#ancla_hacetesocio">Asociate</a></li>
                     </ul>
                 </li>
                 <li class="header_verde header_uno_verde">
@@ -108,7 +108,7 @@
                             <li><a class="header_cerrar_menu1" href="./vistas/socios.php#ancla_informacion">Informacion</a></li>
                             <li><a class="header_cerrar_menu2" href="./vistas/socios.php#ancla_valores">Valores</a></li>
                             <li><a class="header_cerrar_menu3" href="./vistas/socios.php#ancla_preguntas">Preguntas</a></li>
-                            <li><a class="header_cerrar_menu4" href="./vistas/socios.php#ancla_hacetesocio">Hacete Socio</a></li>
+                            <li><a class="header_cerrar_menu4" href="./vistas/socios.php#ancla_hacetesocio">Asociate</a></li>
                         </ul>
                     </div>
                 </div>
@@ -167,7 +167,7 @@
                     </div>
                 </div>
                 <h4 style="text-align: center; font-size: 16px; font-family: Graduate; font-weight: 400; color: white;">
-                    19/03/2023 -HS</h4>
+                    19/03/2023 18:00HS</h4>
                 <div class="main_videos">
                     <a href="">VIDEOS ></a>
                     <div class="main_video_principal">

@@ -572,7 +572,7 @@
                         </div>
                     </div>
                     <div class="contenedor_fecha_fixture">
-                        <p class="fecha_fixture">2ª fecha / 19-03-2023 / -hs.</p>
+                        <p class="fecha_fixture">2ª fecha / 19-03-2023 / 18:00hs.</p>
                     </div>
                 </div>
             </div>

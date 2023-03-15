@@ -1141,6 +1141,78 @@ td {
 }
 
 /* SOCIOS */
+.main_socios table {
+  width: 100%;
+}
+
+.main_socios table,
+td {
+  border-collapse: collapse;
+  text-align: center;
+  font-weight: 900;
+  font-family: RiftDemi;
+  font-size: 25px;
+}
+
+.main_socios_tabla_none {
+  border: none;
+}
+
+.main_socios_tabla_titulo {
+  border: none;
+  background-color: #e46262;
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+.main_socios_tabla_titulo_izq {
+  border-radius: 12px 0 0 0;
+}
+
+.main_socios_tabla_titulo_der {
+  border-radius: 0 12px 0 0;
+}
+
+.main_socios_tabla_edad {
+  background-color: #f9fafb;
+  border: none;
+  border-bottom: 1px solid lightgray;
+  color: #e46262;
+}
+
+.main_socios_tabla_edad_arriba {
+  border-radius: 12px 0 0 0;
+}
+
+.main_socios_tabla_edad_abajo {
+  border-bottom: none;
+  border-radius: 0 0 0 12px;
+}
+
+.main_socios_tabla_estado {
+  font-size: 14px;
+}
+
+.main_socios_tabla_pago {
+  background-color: #e46262;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+}
+
+.main_socios_tabla_precio {
+  background-color: #f9fafb;
+  color: #e46262;
+}
+
+.main_socios_tabla_precio_abajo {
+  border-bottom: none;
+  border-radius: 0 0 12px 0;
+}
+
+.main_socios_tabla_precio_derecha {
+  border-right: none;
+}
 
 /* MARKETING */
 .main_marketing_contenedor {
