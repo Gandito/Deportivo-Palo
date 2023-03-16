@@ -1374,7 +1374,7 @@ td {
 
 .contenedor_derecha_informacion_asociate > a {
   display: block;
-  width: 243.8px;
+  width: 100%;
   height: 53px;
   color: white;
   position: absolute;
