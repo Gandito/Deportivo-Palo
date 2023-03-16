@@ -503,17 +503,19 @@
                 </div>
             </div>
 
-            <div class="contenedor_derecha_main_calendario">
+            <div class="contenedor_derecha_main_fixture">
                 <nav class="nav_fixture_derecha">
-                    <ul>
-                        <li>
-                            <h4>Fútbol</h4>
-                        </li>
-                        <li><a href="futbol_plantel.php">Plantel</a></li>
-                        <li><a href="#ancla_fixture">Fixture</a></li>
-                        <li><a href="#ancla_torneo">Torneo</a></li>
-                        <li><a href="#ancla_titulos">Titulos</a></li>
-                    </ul>
+                    <div class="contenedor_derecha_informacion_futbol">
+                        <div>
+                            <button><span class="contenedor_derecha_informacion_plantel"><a href="./futbol_plantel.php#ancla_plantel">PLANTEL ></a></span></button>
+                        </div>
+                        <h4>FUTBOL</h4>
+                        <ul>
+                            <li><a href="./futbol.php#ancla_fixture">FIXTURE</a></li>
+                            <li><a href="./futbol.php#ancla_torneo">TORNEO</a></li>
+                            <li><a href="./futbol.php#ancla_titulos">TITULOS</a></li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </div>
@@ -543,15 +545,17 @@
 
                 <div class="contenedor_derecha_main_fixture">
                     <nav class="nav_fixture_derecha">
-                        <ul>
-                            <li>
-                                <h4>Fútbol</h4>
-                            </li>
-                            <li><a href="futbol_plantel.php">Plantel</a></li>
-                            <li><a href="#ancla_fixture">Fixture</a></li>
-                            <li><a href="#ancla_torneo">Torneo</a></li>
-                            <li><a href="#ancla_titulos">Titulos</a></li>
-                        </ul>
+                        <div class="contenedor_derecha_informacion_futbol">
+                            <div>
+                                <button><span class="contenedor_derecha_informacion_plantel"><a href="./futbol_plantel.php#ancla_plantel">PLANTEL ></a></span></button>
+                            </div>
+                            <h4>FUTBOL</h4>
+                            <ul>
+                                <li><a href="./futbol.php#ancla_fixture">FIXTURE</a></li>
+                                <li><a href="./futbol.php#ancla_torneo">TORNEO</a></li>
+                                <li><a href="./futbol.php#ancla_titulos">TITULOS</a></li>
+                            </ul>
+                        </div>
                     </nav>
                 </div>
             </div>
@@ -1780,19 +1784,6 @@
                         </tr>
                     </table>
                 </div>
-            </div>
-            <div class="main_futbol_contenedor_derecha_calendario">
-                <nav class="main_futbol_nav_fixture_derecha">
-                    <ul>
-                        <li>
-                            <h4>Fútbol</h4>
-                        </li>
-                        <li><a href="">Plantel</a></li>
-                        <li><a href="">Fixture</a></li>
-                        <li><a href="">Torneo</a></li>
-                        <li><a href="">Titulos</a></li>
-                    </ul>
-                </nav>
             </div>
         </div>
         <span id="ancla_titulos" class="ancla">Titulos</span>

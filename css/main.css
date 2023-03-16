@@ -699,58 +699,143 @@
   transform: translateY(20px);
 }
 
+.contenedor_derecha_informacion_futbol {
+  position: sticky;
+  top: 110px;
+  background-color: #f7f8ff;
+  display: grid;
+  height: 300px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  align-items: center;
+  margin-left: 5%;
+}
+
+.contenedor_derecha_informacion_futbol div{
+  text-align: center;
+  width: 100%;
+}
+
+.contenedor_derecha_informacion_futbol button{
+  font-family: OpenSansRegular;
+  font-size: 15px;
+  font-weight: bold;
+  background: #26aa5d;
+  border: none;
+  border-radius: 3px; 
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 16px 20px;
+  position: relative;
+  overflow: hidden;
+  transition: all .3s;
+  width: 75%;
+  height: 53px;
+  z-index: 1;
+  margin-right: 11px;
+}
+
+.contenedor_derecha_informacion_futbol button:hover{
+  color: #4ade88; 
+}
+
+.contenedor_derecha_informacion_futbol button::after {
+  content: "";
+  background: #343A40; 
+  position: absolute;
+  z-index: -1;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: -100%;
+  right: 100%;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.contenedor_derecha_informacion_futbol button:hover::after {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.contenedor_derecha_informacion_futbol button:active, 
+.contenedor_derecha_informacion_futbol button:focus {
+  outline: 4px solid #68d980c3;
+}
+
+.contenedor_derecha_informacion_futbol button span:nth-last-child(2){
+  padding-right: 30px;
+  transition: padding .3s;
+}
+
+.contenedor_derecha_informacion_futbol button:hover span:nth-last-child(2){
+  padding-right: 15px;
+}
+
+.contenedor_derecha_informacion_futbol h4{
+  color: #a7a7a7cb;
+  font-size: 37px;
+  font-family: RiftDemi;
+  margin-top: 30px;
+  padding-left: 19px;
+}
+
+.contenedor_derecha_informacion_futbol ul{
+  margin-top: 15px;
+  padding-left: 19px;
+  list-style: none;
+}
+
+.contenedor_derecha_informacion_futbol ul li{
+  color: #26aa5d;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.contenedor_derecha_informacion_futbol ul li:hover{
+  color: #38be70;
+  text-decoration: underline;
+}
+
+.contenedor_derecha_informacion_futbol a {
+  color: #26aa5d;
+}
+
+.contenedor_derecha_informacion_futbol a:hover {
+  color: #38be70;
+}
+
+.contenedor_derecha_informacion_plantel > a {
+  display: block;
+  width: 158.17px;
+  height: 53px;
+  color: white;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  line-height: 53px;
+}
+
 .contenedor_derecha_main_fixture {
-  height: 90%;
+  height: 84%;
   position: absolute;
   right: 14%;
 }
 
 .nav_fixture_derecha {
-  background-color: #F8F9FA;
-  box-shadow: 4px 4px 9px 1px rgba(0, 0, 0, 0.289);
-  padding: 15px;
+  background-color: #F7F8FF;
   position: sticky;
-  text-align: center;
   top: 110px;
-  width: 222px;
-  -moz-box-shadow: 4px 4px 9px 1px rgba(0, 0, 0, 0.322);
-  -webkit-box-shadow: 4px 4px 9px 1px rgba(0, 0, 0, 0.287);
-}
-
-.nav_fixture_derecha h4 {
-  color: #e46262;
-  text-align: center;
-  font-family: RiftDemi;
-  font-size: 55px;
-  margin-bottom: 0px;
-}
-
-.nav_fixture_derecha li {
-  background-color: #2ECC71;
-  list-style: none;
-  margin-top: 10px;
-  padding: 3px;
-  text-align: left;
-}
-
-.nav_fixture_derecha li:nth-child(1) {
-  background-color: #2ecc7000;
-}
-
-.nav_fixture_derecha li a {
-  background-color: #2ECC71;
-  color: white;
-  font-family: OpenSansRegular;
-  font-size: 17px;
-  font-weight: bold;
-  padding-right: 120px;
-}
-
-.nav_fixture_derecha li a:hover {
-  color: rgba(255, 255, 255, 0.845);
-  font-family: OpenSansRegular;
-  font-size: 18px;
-  font-weight: bold;
+  width: 215px;
 }
 
 .ancla {
@@ -912,31 +997,6 @@
 
 .main_futbol_nav_fixture_derecha {
   display: none;
-}
-
-.main_futbol_nav_fixture_derecha h4 {
-  color: #bcc1c9;
-  font-family: RiftDemi;
-  font-size: 31px;
-}
-
-.main_futbol_nav_fixture_derecha li {
-  list-style: none;
-  margin-top: 10px;
-}
-
-.main_futbol_nav_fixture_derecha li a {
-  color: #2ecc71;
-  font-family: OpenSansRegular;
-  font-size: 17px;
-  font-weight: bold;
-}
-
-.main_futbol_nav_fixture_derecha li a:hover {
-  color: #31e07a;
-  font-family: OpenSansRegular;
-  font-size: 17px;
-  font-weight: bold;
 }
 
 .main_futbol_estadisticas {
@@ -1193,7 +1253,7 @@ td {
   text-decoration: underline;
 }
 
-.contenedor_derecha_informacion{
+.contenedor_derecha_informacion {
   position: sticky;
   top: 110px;
   background-color: #f7f8ff;
@@ -1228,6 +1288,7 @@ td {
   width: 75%;
   height: 53px;
   z-index: 1;
+  margin-right: 11px;
 }
 
 .contenedor_derecha_informacion button:hover{
@@ -1271,18 +1332,18 @@ td {
   padding-right: 15px;
 }
 
-
 .contenedor_derecha_informacion h4{
   color: #a7a7a7cb;
   font-size: 37px;
   font-family: RiftDemi;
   margin-top: 30px;
-  padding-left: 40px;
+  padding-left: 19px;
 }
 
 .contenedor_derecha_informacion ul{
   margin-top: 15px;
-  padding-left: 40px;
+  padding-left: 19px;
+  list-style: none;
 }
 
 .contenedor_derecha_informacion ul li{
@@ -1291,13 +1352,31 @@ td {
   font-family: sans-serif;
   font-size: 17px;
   font-weight: bold;
-  list-style: none;
   margin-top: 10px;
 }
 
 .contenedor_derecha_informacion ul li:hover{
   color: #38be70;
   text-decoration: underline;
+}
+
+.contenedor_derecha_informacion a {
+  color: #26aa5d;
+}
+
+.contenedor_derecha_informacion a:hover {
+  color: #38be70;
+}
+
+.contenedor_derecha_informacion_asociate > a {
+  display: block;
+  width: 158.17px;
+  height: 53px;
+  color: white;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  line-height: 53px;
 }
 
 .main_socios table {
