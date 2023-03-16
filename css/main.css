@@ -4,7 +4,8 @@
 .main_deportivo,
 .main_socios,
 .main_marketing,
-.main_canticos {
+.main_canticos,
+.main_asociate {
   width: 70%;
   margin: 115px auto 50px;
 }
@@ -20,7 +21,8 @@
 .main_deportivo h1,
 .main_socios h1,
 .main_marketing h1,
-.main_canticos h1 {
+.main_canticos h1,
+.main_asociate h1 {
   color: #a7a7a7;
   font-family: RobotoBlack;
   font-size: 80px;
@@ -32,7 +34,8 @@
 .main_deportivo h2,
 .main_socios h2,
 .main_marketing h2,
-.main_canticos h2 {
+.main_canticos h2,
+.main_asociate h2 {
   margin: 30px 0 30px 0;
   font-family: RobotoBold;
   text-transform: uppercase;
@@ -43,7 +46,8 @@
 .main_deportivo h2,
 .main_socios h2,
 .main_marketing h2,
-.main_canticos h2 {
+.main_canticos h2,
+.main_asociate h2 {
   color: #2ECC71;
 }
 

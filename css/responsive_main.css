@@ -7,7 +7,8 @@
     .main_deportivo,
     .main_socios,
     .main_marketing,
-    .main_canticos {
+    .main_canticos,
+    .main_asociate {
         margin: 70px auto 50px;
     }
 
@@ -17,7 +18,8 @@
     .main_deportivo h1,
     .main_socios h1,
     .main_marketing h1,
-    .main_canticos h1 {
+    .main_canticos h1,
+    .main_asociate h1 {
         font-size: 70px;
     }
 
@@ -26,7 +28,8 @@
     .main_deportivo h2,
     .main_socios h2,
     .main_marketing h2,
-    .main_canticos h2 {
+    .main_canticos h2,
+    .main_asociate h2 {
         font-size: 20px;
     }
 }
@@ -39,7 +42,8 @@
     .main_deportivo,
     .main_socios,
     .main_marketing,
-    .main_canticos {
+    .main_canticos,
+    .main_asociate {
         margin: 70px auto 30px;
         width: 100%;
     }
@@ -50,7 +54,8 @@
     .main_deportivo h1,
     .main_socios h1,
     .main_marketing h1,
-    .main_canticos h1 {
+    .main_canticos h1,
+    .main_asociate h1 {
         font-size: 50px;
     }
 
@@ -59,7 +64,8 @@
     .main_deportivo h2,
     .main_socios h2,
     .main_marketing h2,
-    .main_canticos h2 {
+    .main_canticos h2,
+    .main_asociate h2 {
         text-align: center;
     }
 }
@@ -72,7 +78,8 @@
     .main_deportivo,
     .main_socios,
     .main_marketing,
-    .main_canticos {
+    .main_canticos,
+    .main_asociate {
         margin: 70px auto 0px;
     }
 
@@ -82,7 +89,8 @@
     .main_deportivo h1,
     .main_socios h1,
     .main_marketing h1,
-    .main_canticos h1 {
+    .main_canticos h1,
+    .main_asociate h1 {
         font-size: 40px;
     }
 }

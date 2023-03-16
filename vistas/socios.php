@@ -80,7 +80,7 @@
             </div>
             <div class="contenedor_derecha_informacion">
                 <div>
-                    <button><span class="contenedor_derecha_informacion_asociate"><a href="">HACETE SOCIO ></a></span></button>
+                    <button><span class="contenedor_derecha_informacion_asociate"><a href="./socios_asociate.php#ancla_asociate">HACETE SOCIO ></a></span></button>
                 </div>
                 <h4>SOCIOS</h4>
                 <ul>

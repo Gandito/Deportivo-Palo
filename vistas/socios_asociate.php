@@ -9,8 +9,9 @@
         <?php include('../inc/header.php');?>
     </header>
 
+    <span id="ancla_asociate" class="ocultar">Asociate</span>
     <main class="main_asociate">
-        
+        <h1>ASOCIATE</h1>
     </main>
 
     <footer>
