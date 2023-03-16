@@ -54,7 +54,7 @@ footer {
     width: 20%;
 }
 
-.fa-brands {
+.icono_footer {
     background-color: gray;
     border-radius: 50px;
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.75);
@@ -68,7 +68,7 @@ footer {
     -webkit-box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.75);
 }
 
-.fa-brands:hover {
+.icono_footer:hover {
     box-shadow: 0px 0px 18px 0px rgba(95, 95, 95, 0.75);
     opacity: 1;
     -moz-box-shadow: 0px 0px 18px 0px rgba(104, 104, 104, 0.75);

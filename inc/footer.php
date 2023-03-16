@@ -8,12 +8,12 @@
 </div>
 <div class="footer_redes">
     <div>
-        <a class="footer_links" target="_blank" href="https://www.instagram.com/cfdeportivopalo/"><i class="fa-brands fa-instagram"></i></a>
+        <a class="footer_links" target="_blank" href="https://www.instagram.com/cfdeportivopalo/"><i class="icono_footer fa-brands fa-instagram"></i></a>
     </div>
     <div>
-        <a class="footer_links" target="_blank" href="https://www.tiktok.com/@cfdeportivopalo"><i class="fa-brands fa-tiktok"></i></a>
+        <a class="footer_links" target="_blank" href="https://www.tiktok.com/@cfdeportivopalo"><i class="icono_footer fa-brands fa-tiktok"></i></a>
     </div>
     <div>
-        <a class="footer_links" target="_blank" href="https://twitter.com/CFDeportivoPalo"><i class="fa-brands fa-twitter"></i></a>
+        <a class="footer_links" target="_blank" href="https://twitter.com/CFDeportivoPalo"><i class="icono_footer fa-brands fa-twitter"></i></a>
     </div>
 </div>

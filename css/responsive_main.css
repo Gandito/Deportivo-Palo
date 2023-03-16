@@ -988,10 +988,6 @@
         font-size: 14px;
     }
 
-    .h4_formulario_marketing {
-        font-size: 25px;
-    }
-
     .contenedor_formulario {
         width: 100%;
     }
@@ -1029,10 +1025,6 @@
         font-size: 12px;
     }
 
-    .h4_formulario_marketing {
-        font-size: 22px;
-    }
-
     .contenedor_formulario {
         width: 100%;
     }
@@ -1059,11 +1051,6 @@
     .almacen p,
     .lns p {
         font-size: 10px;
-    }
-
-    .h4_formulario_marketing {
-        font-size: 20px;
-        margin-top: 40px;
     }
 
     .contenedor_formulario {
@@ -1099,5 +1086,58 @@
 
     .contenedor_boton_formulario_marketing button {
         padding: 10px 14px;
+    }
+}
+
+/* SOCIOS */
+@media screen and (max-width: 1440px) {
+    .contenedor_principal_socios {
+        display: grid;
+        font-family: OpenSansRegular;
+        grid-template-columns: 65% 30% 5%;
+    }
+
+    .contenedor_derecha_informacion button span:nth-last-child(2) {
+        padding-right: 11px;
+        transition: padding .3s;
+    }
+
+    .contenedor_derecha_informacion button:hover span:nth-last-child(2) {
+        padding-right: 6px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .contenedor_principal_socios {
+        display: grid;
+        font-family: OpenSansRegular;
+        grid-template-columns: 100%;
+    }
+
+    .contenedor_derecha_informacion {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .contenedor_izquierda_informacion a {
+        font-size: 15px;
+    }
+
+    .contenedor_izquierda_informacion div h3 {
+        font-size: 18px;
+    }
+
+    .contenedor_izquierda_informacion ul {
+        margin-top: 10px;
+        padding-left: 25px;
+    }
+
+    .main_socios_tabla_edad {
+        font-size: 16px;
+    }
+
+    .main_socios_tabla_estado {
+        font-size: 8px;
     }
 }

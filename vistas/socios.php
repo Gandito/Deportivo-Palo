@@ -13,7 +13,23 @@
 
     <span id="ancla_informacion" class="ocultar">Informacion</span>
     <main class="main_socios">
-        <h1>VALORES</h1>
+        <h1>INFORMACION</h1>
+        <div class="contenedor_principal_socios">
+            <div class="contenedor_izquierda_socios">
+                <div class="contenedor_izquierda_informacion">
+                    <h2>BENEFICIOS</h2>
+                    <ul>
+                        <li>La posibilidad de ganarte la remera origianl de Deportivo Palo.</li>
+                        <li>La posibilidad de ganarte descuentos en el Almacen El Chelo.</li>
+                        <li>La posibilidad de participar de sorteos.</li>
+                    </ul>
+
+                    <div>
+                        <h3>PARA MAYOR INFORMACION:</h3>
+                        <p><a href=""><span><i class="icono_informacion fa-brands fa-whatsapp"></i></span> 54 9 11 3269-2245</a></p>
+                        <p><a href=""><span><i class="icono_informacion fa-solid fa-envelope"></i></span> lauticapo1910cavs@gmail.com</a></p>
+                    </div>
+                    <h1>VALORES</h1>
         <table class="main_socios_tabla">
             <tr>
                 <td class="main_socios_tabla_none"></td>
@@ -49,12 +65,27 @@
 
         <h1>PREGUNTAS</h1>
         <h2>¿Cómo me asocio?</h2>
-        <p>Podés hacerlo de manera online ingresando a la seccion 'Asociate'.</p> 
+        <p class="main_socios_preguntas_parrafo">Podés hacerlo de manera online ingresando a la seccion 'Asociate'.</p>
         <h2>¿Cuál es el valor de la cuota social?</h2>
-        <p>Conocé todos los valores de la cuota social en la seccion 'Valores'.</p> 
+        <p class="main_socios_preguntas_parrafo">Conocé todos los valores de la cuota social en la seccion 'Valores'.</p>
         <h2>¿Qué diferencia hay entre Socio Pleno y Socio Semipleno?</h2>
-        <p><strong>Socio Pleno:</strong> Incluye la entrada gratis a los partidos de fútbol de local, acceso a las instalaciones del club y la posibilidad de realizar actividades deportivas y culturales abonando su respectivo arancel, en caso de corresponder. <br> <br>
-        <strong>Socio Semipleno:</strong> Incluye la entrada a los partidos de fútbol de local, acceso a las instalaciones del club y la posibilidad de realizar actividades culturales abonando su respectivo arancel, en caso de corresponder.</p> 
+        <p class="main_socios_preguntas_parrafo"><strong style="color: red;">Socio Pleno:</strong> Incluye la posibilidad de ganarte la remera original de Deportivo Palo, ganarte descuentos en el Almacen El Chelo (Av. Juan B. Justo 9100, Liniers, 1408) y la posibilidad de participar de sorteos. <br> <br>
+            <strong style="color: red;">Socio Semipleno:</strong> Incluye la posibilidad de ganarte descuentos en el Almacen El Chelo (Av. Juan B. Justo 9100, Liniers, 1408) y la posibilidad de participar de sorteos.
+        </p>
+                </div>
+            </div>
+            <div class="contenedor_derecha_informacion">
+                <div>
+                    <button><span>HACETE SOCIO</span> <span> > </span></button>
+                </div>
+                <h4>SOCIOS</h4>
+                <ul>
+                    <li>INFORMACION</li>
+                    <li>VALORES</li>
+                    <li>PREGUNTAS</li>
+                </ul>
+            </div>
+        </div>
     </main>
 
     <footer>

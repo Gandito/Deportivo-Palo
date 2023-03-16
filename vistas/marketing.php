@@ -27,7 +27,7 @@
             </div>
         </div>
         <div class="main_marketing_contacto">
-            <h4 class="h4_formulario_marketing">Contactate con Marketing</h4>
+            <h2 class="main_marketing_titulo">Contactate con Marketing</h2>
             <div class="contenedor_formulario">
                 <form class="main_marketing_form" action="https://formspree.io/f/moqbgeka" method="POST">
                     <div class="contenedor_seccion_formulario_marketing">

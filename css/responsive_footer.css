@@ -7,7 +7,7 @@
         font-size: 14px;
     }
 
-    .fa-brands {
+    .icono_footer {
         font-size: 35px;
     }
 }
@@ -39,7 +39,7 @@
         align-items: flex-end;
     }
 
-    .fa-brands, .fa-instagram {
+    .icono_footer, .fa-instagram {
         border: none;
         font-size: 23px;
         background: transparent;
@@ -47,7 +47,7 @@
         justify-content: right;
     }
 
-    .fa-brands:hover {
+    .icono_footer:hover {
         box-shadow: none;
     }
 }
@@ -79,7 +79,7 @@
         display: none;
     }
 
-    .fa-brands {
+    .icono_footer {
         font-size: 15px;
         margin: 0px;
     }
