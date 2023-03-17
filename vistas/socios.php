@@ -20,7 +20,7 @@
                 <div class="contenedor_izquierda_informacion">
                     <h2>BENEFICIOS</h2>
                     <ul>
-                        <li>La posibilidad de ganarte la remera origianl de Deportivo Palo.</li>
+                        <li>La posibilidad de ganarte la remera original de Deportivo Palo.</li>
                         <li>La posibilidad de ganarte descuentos en el Almacen El Chelo.</li>
                         <li>La posibilidad de participar de sorteos.</li>
                     </ul>
@@ -31,7 +31,7 @@
                         <p><a href=""><span><i class="icono_informacion fa-solid fa-envelope"></i></span> lauticapo1910cavs@gmail.com</a></p>
                     </div>
 
-                    <span id="ancla_valores" class="ocultar">Valores</span>
+                    <span id="ancla_valores" class="ancla">Valores</span>
                     <h1>VALORES</h1>
                     <table class="main_socios_tabla">
                         <tr>
@@ -66,7 +66,7 @@
                         </tr>
                     </table>
 
-                    <span id="ancla_preguntas" class="ocultar">Preguntas</span>
+                    <span id="ancla_preguntas" class="ancla">Preguntas</span>
                     <h1>PREGUNTAS</h1>
                     <h2>¿Cómo me asocio?</h2>
                     <p class="main_socios_preguntas_parrafo">Podés hacerlo de manera online ingresando a la seccion 'Asociate'.</p>
@@ -97,6 +97,7 @@
     </footer>
 
     <!-- JS PRINCIPAL -->
+    <script src="./js/modo_oscuro.js"></script>
     <script src="../js/header.js"></script>
 </body>
 

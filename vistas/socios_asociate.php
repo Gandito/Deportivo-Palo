@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <?php include('../inc/head.php');?>
     <title>C.F. Deportivo Palo - Asociate</title>
@@ -17,5 +17,9 @@
     <footer>
         <?php include('../inc/footer.php');?>
     </footer>
+
+    <!-- JS PRINCIPAL -->
+    <script src="./js/modo_oscuro.js"></script>
+    <script src="../js/header.js"></script>
 </body>
 </html>

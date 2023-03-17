@@ -5,7 +5,9 @@
 .main_socios,
 .main_marketing,
 .main_canticos,
-.main_asociate {
+.main_asociate,
+.main_pagina_videos,
+.main_pagina_galeria {
   width: 70%;
   margin: 115px auto 50px;
 }
@@ -22,7 +24,9 @@
 .main_socios h1,
 .main_marketing h1,
 .main_canticos h1,
-.main_asociate h1 {
+.main_asociate h1,
+.main_pagina_videos h1,
+.main_pagina_galeria h1 {
   color: #a7a7a7;
   font-family: RobotoBlack;
   font-size: 80px;
@@ -35,7 +39,9 @@
 .main_socios h2,
 .main_marketing h2,
 .main_canticos h2,
-.main_asociate h2 {
+.main_asociate h2,
+.main_pagina_videos h2,
+.main_pagina_galeria h2 {
   margin: 30px 0 30px 0;
   font-family: RobotoBold;
   text-transform: uppercase;
@@ -47,7 +53,9 @@
 .main_socios h2,
 .main_marketing h2,
 .main_canticos h2,
-.main_asociate h2 {
+.main_asociate h2,
+.main_pagina_videos h2,
+.main_pagina_galeria h2 {
   color: #2ECC71;
 }
 
@@ -1640,4 +1648,37 @@ td {
 .contenedor_boton_formulario_marketing button span {
   font-size: 18px;
   font-family: RiftDemi;
+}
+
+.main_canticos_parrafo {
+  font-family: OpenSansRegular;
+  font-size: 18px;
+}
+
+.main_pagina_videos_contenedor {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main_pagina_videos_contenido {
+  width: 444.5px;
+  height: 444.5px;
+}
+
+.main_pagina_videos_contenido video {
+  border: 5px solid white;
+  width: 444.5px;
+  height: 444.5px;
+}
+
+.main_pagina_galeria_contenedor {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main_pagina_galeria_contenido {
+  border: 5px solid white;
+  width: 444.5px;
+  height: 444.5px;
+  background-image: url(../images/imagen_fondo_club.jpg);
 }

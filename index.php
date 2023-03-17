@@ -167,9 +167,9 @@
                     </div>
                 </div>
                 <h4 style="text-align: center; font-size: 16px; font-family: Graduate; font-weight: 400; color: white;">
-                    19/03/2023 18:00HS</h4>
+                    19/03/2023 18:00HS AV. DIRECTORIO 4147</h4>
                 <div class="main_videos">
-                    <a href="">VIDEOS ></a>
+                    <a href="./vistas/videos.php">VIDEOS ></a>
                     <div class="main_video_principal">
                         <video src="" controls></video>
                     </div>
@@ -178,7 +178,7 @@
         </section>
         <section class="main_seccion_inferior">
             <div class="main_inferior">
-                <a href=""><span class="main_letra_verde">VER</span> <span class="main_letra_blanca">GAL</span><span class="main_letra_roja">ERIA</span></a>
+                <a href="./vistas/galeria.php"><span class="main_letra_verde">VER</span> <span class="main_letra_blanca">GAL</span><span class="main_letra_roja">ERIA</span></a>
             </div>
         </section>
         <div class="main_videos_xxs">
@@ -200,18 +200,19 @@
         </div>
         <div class="footer_redes">
             <div>
-                <a class="footer_links" target="_blank" href="https://www.instagram.com/cfdeportivopalo/"><i class="fa-brands fa-instagram"></i></a>
+                <a class="footer_links" target="_blank" href="https://www.instagram.com/cfdeportivopalo/"><i class="icono_footer fa-brands fa-instagram"></i></a>
             </div>
             <div>
-                <a class="footer_links" target="_blank" href="https://www.tiktok.com/@cfdeportivopalo"><i class="fa-brands fa-tiktok"></i></a>
+                <a class="footer_links" target="_blank" href="https://www.tiktok.com/@cfdeportivopalo"><i class="icono_footer fa-brands fa-tiktok"></i></a>
             </div>
             <div>
-                <a class="footer_links" target="_blank" href="https://twitter.com/CFDeportivoPalo"><i class="fa-brands fa-twitter"></i></a>
+                <a class="footer_links" target="_blank" href="https://twitter.com/CFDeportivoPalo"><i class="icono_footer fa-brands fa-twitter"></i></a>
             </div>
         </div>
     </footer>
 
     <!-- JS PRINCIPAL -->
+    <script src="./js/modo_oscuro.js"></script>
     <script src="./js/main.js"></script>
     <script src="./js/header.js"></script>
 </body>

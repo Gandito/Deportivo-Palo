@@ -62,6 +62,7 @@
     </footer>
 
     <!-- JS PRINCIPAL -->
+    <script src="./js/modo_oscuro.js"></script>
     <script src="../js/header.js"></script>
 </body>
 
