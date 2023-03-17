@@ -130,6 +130,12 @@
                 </div>
             </section>
         </nav>
+        <div class="modo_oscuro_contenedor">
+            <div class="modo_oscuro_contenido">
+                <i class="icono_sol fa-regular fa-sun"></i>
+                <i class="icono_luna fa-solid fa-moon"></i>
+            </div>
+        </div>
     </header>
 
 
@@ -212,9 +218,10 @@
     </footer>
 
     <!-- JS PRINCIPAL -->
-    <script src="./js/modo_oscuro.js"></script>
+    
     <script src="./js/main.js"></script>
     <script src="./js/header.js"></script>
+    <script src="./js/modo_oscuro.js"></script>
 </body>
 
 </html>

@@ -112,3 +112,9 @@
         </div>
     </section>
 </nav>
+<div class="modo_oscuro_contenedor">
+    <div class="modo_oscuro_contenido">
+        <i class="icono_sol fa-regular fa-sun"></i>
+        <i class="icono_luna fa-solid fa-moon"></i>
+    </div>
+</div>

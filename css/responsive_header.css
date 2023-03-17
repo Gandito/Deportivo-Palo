@@ -17,14 +17,14 @@
 
   header img {
     left: 0%;
-    top: 3%;
-    width: 100px;
+    top: 13%;
+    width: 80px;
   }
 
   header img:hover {
-    left: -0.21%;
-    top: 0%;
-    width: 105px;
+    left: -0.3%;
+    top: 10%;
+    width: 85px;
   }
 
   .header_menu_horizontal > li > span {
@@ -61,12 +61,12 @@
   header {
     transition: all .3s;
     width: 100%;
+    
   }
 
   header img {
     height: auto;
     margin-left: 40%;
-    margin-top: 8px;
     position: absolute;
     width: 80px;
   }
@@ -153,7 +153,7 @@
 
   .header_nav_responsivo_ocultar {
     display: none;
-    margin-top: -40px;
+    margin-top: 0px;
     visibility: none;
   }
 
@@ -234,6 +234,10 @@
     background-color: #acacac;
     color: #ffffff;
   }
+
+  .modo_oscuro_contenedor {
+    left: 39%;
+  }
 }
 
 @media screen and (max-width: 380px) {
@@ -252,6 +256,10 @@
 
   .header_contenedor_links a {
     font-size: 13px;
+  }
+
+  .modo_oscuro_contenedor {
+    left: 35%;
   }
 }
 

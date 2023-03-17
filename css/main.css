@@ -1681,4 +1681,6 @@ td {
   width: 444.5px;
   height: 444.5px;
   background-image: url(../images/imagen_fondo_club.jpg);
+  background-size: cover;
+  background-position: center;
 }
